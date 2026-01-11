@@ -18,7 +18,6 @@
 - [Curriculum](#curriculum)
 - [Code of conduct](#code-of-conduct)
 
-
 # Summary
 
 The Asian Studies curriculum is a **complete education in Asian Studies** using online materials. The program emphasizes interdisciplinary approaches, balancing history, culture, religion, philosophy, politics, and language proficiency.
@@ -30,17 +29,13 @@ Language study runs parallel throughout, aiming for intermediate proficiency in 
 Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
 they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md) or [extras/other_curricula](extras/other_curricula.md).
 
-**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
-
-- We recommend doing all courses in **Core**, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week.
-- The courses in the Advanced section are electives. Choose one track to specialize in and complete all the courses listed under it.
 
 **[How to contribute](/CONTRIBUTING.html)**
 
 # Communities
 
 - Forums:
+
   - [H-Asia (H-Net Discussion Network)](https://networks.h-net.org/h-asia)
   - [Association for Asian Studies Community Forum](https://community.asianstudies.org/home)
 
@@ -49,79 +44,182 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
   - [r/AskHistorians](https://www.reddit.com/r/AskHistorians/) (frequent high-quality threads on Asian history and culture)
   - [r/southeastasia](https://www.reddit.com/r/southeastasia/)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/asian-studies/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
+- Join our Discord server (for discussions around this and other curricula): 
+    
+    [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
 # Curriculum
 
-## Intro Asian Studies
+- [I. Pan-Asian Foundations](#i-pan-asian-foundations)
+  - [Geography, Peoples, and Regions](#geography-peoples-and-regions)
+  - [Big-Picture Asian History](#big-picture-asian-history)
+  - [Major Religious Traditions of Asia](#major-religious-traditions-of-asia)
+  - [Language Foundations](#language-foundations)
+- [II. Core Regional Histories](#ii-core-regional-histories)
+  - [East Asia China, Korea, Japan](#east-asia-china-korea-japan)
+  - [South Asia India, Pakistan, Bangladesh, Sri Lanka](#south-asia-india-pakistan-bangladesh-sri-lanka)
+  - [Southeast Asia](#southeast-asia)
+- [III. Asian Philosophical Traditions](#iii-asian-philosophical-traditions)
+  - [Indian Traditions](#indian-traditions)
+  - [Chinese Traditions](#chinese-traditions)
+  - [Buddhist Worlds](#buddhist-worlds)
+- [IV. Asian Literatures & Arts](#iv-asian-literatures--arts)
+  - [Literary Traditions](#literary-traditions)
+  - [Visual & Performing Arts](#visual--performing-arts)
+- [V. Modern Asia: Society, Politics, Economy](#v-modern-asia-society-politics-economy)
+  - [Colonialism & Independence](#colonialism--independence)
+  - [Politics & International Relations](#politics--international-relations)
+  - [Development & Globalization](#development--globalization)
+- [VI. Advanced Regional Specialization](#vi-advanced-regional-specialization)
+  - [East Asia](#east-asia)
+  - [South Asia](#south-asia)
+  - [Southeast Asia](#southeast-asia)
 
-Build foundational knowledge of Asia's diversity, geography, and major themes. Achieve basic language proficiency.  
+## How to use this curriculum
 
-| Subject | Why Study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Introduction to Asian Studies | Provides an overview of Asia's regions, cultures, and interdisciplinary approaches to the field. | [*Asia: A Concise History* by Arthur Cotterell](https://www.amazon.com/Asia-Concise-History-Arthur-Cotterell/dp/0470825049) | [East Asian Culture: From Zen to K-Pop (MIT OpenCourseWare)](https://ocw.mit.edu/courses/21g-030-east-asian-culture-from-zen-to-k-pop-spring-2015/) |
-| Geography and Societies of Asia | Understands physical and human geography, demographics, and social structures across regions. | [*Southeast Asia: An Introductory History* by Milton Osborne](https://www.amazon.com/Southeast-Asia-Introductory-History-Milton-Osborne/dp/1760291684) |  |
-| Major Asian Religions: Overview | Introduces Hinduism, Buddhism, Confucianism, Daoism, Shinto, and Islam in Asian contexts as foundational to culture and society. | [*Asian Religions: A Cultural Perspective* by Randall L. Nadeau](https://www.amazon.com/Asian-Religions-Cultural-Perspective-Randall/dp/1118471962) | [East Asian Religions & Ecology (Coursera - free audit, Yale University)](https://www.coursera.org/learn/east-asian-religions-ecology) |
-| Beginner Language Study (chosen language, e.g., Mandarin, Japanese, Hindi) | Builds basic reading, writing, speaking, and listening skills; essential for deeper engagement. | Standard beginner textbook (e.g., Integrated Chinese for Mandarin; Genki for Japanese) | [Mandarin Chinese for Beginners (Coursera - free audit, Peking University)](https://www.coursera.org/learn/learn-chinese) |
+### Core Sections
 
-## Core Asian Studies
+These five sections form the essential backbone of the discipline. Study them in this exact order:
 
-Develop depth in history, philosophy, literature, and politics; continue language to intermediate level.  
+1. **I. Pan-Asian Foundations**  
+   Start here. This section gives you the basic geographical, historical, religious, and linguistic context shared across much of Asia.
 
-| Subject | Why Study? | Book | Online Course | Prerequisites |
-| --- | --- | --- | --- | --- |
-| Premodern East Asian History | Covers classical civilizations, empires, and cultural foundations in China, Japan, Korea. | [*East Asia: A Cultural, Social, and Political History* by Patricia Buckley Ebrey and Anne Walthall](https://www.amazon.com/East-Asia-Cultural-Social-Political/dp/1133606474) | [Cosmopolitan Tang: Aristocratic Culture in China (Harvard edX - free audit)](https://pll.harvard.edu/course/cosmopolitan-tang-aristocratic-culture-china) | Introduction phase |
-| Premodern South/Southeast Asian History | Explores ancient India, kingdoms, and influences in South and Southeast Asia. | [*India: A History* by John Keay](https://www.amazon.com/India-History-John-Keay/dp/0802137970) |  | Introduction phase |
-| Asian Philosophies: Confucianism, Daoism, and Buddhism | Examines core ethical, metaphysical, and practical thought systems. | [*Sources of Chinese Tradition* (Vol. 1) edited by Wm. Theodore de Bary](https://archive.org/details/sourcesofchinese0000deba) | Covered in Major Asian Religions Overview | Major Asian Religions |
-| Asian Philosophies: Hinduism and Indian Traditions | Covers Vedanta, Yoga, and key texts shaping South Asian thought. | [*The Bhagavad Gita*](https://www.holybooks.com/wp-content/uploads/The-Bhagavad-Gita-Translation-by-Shri-Purohit-Swami.pdf) | [South Asian Religions & Ecology (Coursera - free audit, Yale University)](https://www.coursera.org/learn/south-asian-religions-ecology) | Major Asian Religions |
-| Modern Asian History (19th-20th Century) | Analyzes colonialism, nationalism, revolutions, and independence movements. | [*Modern East Asia from 1600* by Conrad Schirokauer et al.](https://www.amazon.com/Modern-East-Asia-Conrad-Schirokauer/dp/0618920706) | [China: Humanities Series (Harvard edX - free audit)](https://pll.harvard.edu/series/china-humanities) | Premodern histories |
-| Asian Literature and Arts | Introduces key literary traditions, poetry, and visual/performing arts. | [*The Columbia Book of Chinese Poetry* by Burton Watson](https://www.amazon.com/Columbia-Book-Chinese-Poetry-Ancient/dp/0231101816) | [Classics of Chinese Humanities: Guided Readings (Coursera - free audit)](https://www.coursera.org/learn/classics-chinese-humanities) | None specific |
-| Politics and Society in Modern Asia | Explores governance, democratization, and social change post-WWII. | [*Political Order in Modern East Asian States* by Xiaoming Huang](https://www.amazon.com/Political-Order-Modern-Asian-States/dp/0367774631) | [International Relations of East Asia (MIT OpenCourseWare)](https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/) | Modern Asian History |
-| Intermediate Language Study | Advances grammar, vocabulary, reading authentic texts, and conversation. | Continuation of beginner series (e.g., Intermediate Integrated Chinese) | [Mandarin Chinese for Intermediate Learners (Coursera - free audit, Shanghai Jiao Tong University)](https://www.coursera.org/specializations/learn-mandarin-chinese-intermediate) | Beginner Language |
+2. **II. Core Regional Histories**  
+   Next, learn the major historical development of the three main sub-regions of Asia (East, South, and Southeast). This is the historical spine of the field.
 
-## Advanced Asian Studies
+3. **III. Asian Philosophical Traditions**  
+   After history, study the major ways of thinking and belief systems that have shaped Asian societies for centuries.
 
-Deepen expertise through electives and specialization. Continue advanced language practice.
+4. **IV. Asian Literatures & Arts**  
+   Then explore how Asian cultures have expressed ideas, values, and experiences through literature, visual art, and performance.
 
-### East Asia (E.g., China, Japan, Korea focus)
+5. **V. Modern Asia: Society, Politics, Economy**  
+   Finish the core by understanding how Asia changed in the last two centuries – colonialism, independence, modern states, and economic transformation.
 
-Emphasizes Confucian-influenced societies, modern economic miracles, and regional dynamics.
+### Specialization Tracks
 
-| Subject | Why Study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Contemporary East Asian Politics | Examines post-Cold War governance, foreign relations, and challenges. | Regional surveys from modern politics texts | [East Asia in the World (MIT OpenCourseWare)](https://ocw.mit.edu/courses/21h-504-east-asia-in-the-world-spring-2003/) |
-| East Asian Buddhism and Zen | Deepens Buddhist variants in China, Japan, Korea. | [*Zen Buddhism: A History* by Heinrich Dumoulin](https://www.amazon.com/Zen-Buddhism-History-Heinrich-Dumoulin/dp/0029082706) | Covered in Major Asian Religions Overview |
-| Modern Chinese/Japanese/Korean Society | Analyzes urbanization, gender, and pop culture. | Thematic readers or case studies |  |
-| East Asian Economy and Development | Covers growth models and globalization impacts. | [*The East Asian Miracle*](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/975081468244550798/main-report) |  |
+After finishing the five Core sections, you have two main choices:
 
-### South Asia (e.g., India, Pakistan, Bangladesh focus)
+**VI. Advanced Regional Specialization**
 
-Focuses on Hinduism/Islam interactions, colonialism's legacy, and democracy.
+Pick **one** (or at most two) of the three sub-regions:
 
-| Subject | Why Study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Contemporary South Asian Politics | Explores partition, secularism, and regional conflicts. | [*India After Gandhi* by Ramachandra Guha](https://www.amazon.com/India-After-Gandhi-History-Democracy/dp/0060198818) |  |
-| Hinduism and Indian Philosophy Advanced | In-depth Vedas, Upanishads, and modern interpretations. | [*The Upanishads* translated by Eknath Easwaran](https://www.amazon.com/Upanishads-Eknath-Easwaran/dp/1586380214) | Covered in Asian Philosophies: Hinduism |
-| South Asian Literature | Key works in English/translation (e.g., epics to postcolonial). | [*The Mahabharata* (abridged)](https://www.amazon.com/Mahabharata-Abridged-R-K-Narayan/dp/022605747X) |  |
-| Caste, Gender, and Social Movements | Analyzes inequality and reform. | Thematic studies from sources |  |
+- East Asia
+- South Asia
+- Southeast Asia
 
-### Southeast Asia (e.g., Indonesia, Vietnam, Thailand focus)
+Go deeper into the region that interests you most. This track builds directly on section II and lets you develop stronger expertise in one major cultural-historical area.
 
-Highlights diversity, colonialism, and ASEAN dynamics.
+**VII. Advanced Language & Texts**
 
-| Subject | Why Study? | Book | Online Course |
-| --- | --- | --- | --- |
-| Southeast Asian History and Politics | Covers kingdoms, independence, and authoritarianism. | [*Southeast Asia: An Introductory History* by Milton Osborne](https://www.amazon.com/Southeast-Asia-Introductory-History-Milton-Osborne/dp/1760291684) |  |
-| Theravada Buddhism and Islam in SE Asia | Regional religious practices and syncretism. | Relevant chapters from religion texts | [Theravada Buddhism Resources (Access to Insight)](https://www.accesstoinsight.org/) |
-| Colonialism and Postcolonial Societies | Impacts of European/Asian influences. | Case studies |  |
-| Regional Integration and Economy | ASEAN, trade, and development. | Surveys on SE Asian politics |  |
+Choose this track if you want to move toward reading primary sources and engaging with contemporary Asian societies in their own languages.
 
-## Phase 4: Capstone
+You can pursue this track alone or combine it with a regional specialization (especially useful if you want to read original historical or literary texts from your chosen region).
 
-**Project Options**:
+## I. Pan-Asian Foundations
 
-- A substantial research paper (20-40 pages) on a comparative or regional topic (e.g., "Buddhism's Influence on Modern Politics in East vs. Southeast Asia").
-- An annotated translation or analysis of primary sources in the chosen language.
-- A portfolio demonstrating language proficiency and cultural synthesis (e.g., essays, presentations).
+### Geography, Peoples, and Regions
+
+- [Asia Society – Country & Regional Profiles](https://asiasociety.org/countries-regions)
+- [CIA World Factbook (Asia sections)](https://www.cia.gov/the-world-factbook/east-and-southeast-asia/)
+
+### Big-Picture Asian History
+
+- [BBC – _A History of the World in 100 Objects_ (Asia episodes)](https://www.bbc.co.uk/programmes/b00nrtd2/episodes/guide)
+- [Yale Open Courses – Introduction to Asian Civilizations](https://online.yale.edu/courses/east-asian-religions-ecology) (Note: Direct full course unavailable; closest related open Yale content on Asian religions/civilizations)
+
+### Major Religious Traditions of Asia
+
+- [Yale Coursera – East Asian Religions & Ecology](https://www.coursera.org/learn/east-asian-religions-ecology)
+- [Yale Coursera – South Asian Religions & Ecology](https://www.coursera.org/learn/south-asian-religions-ecology)
+- [Stanford Encyclopedia of Philosophy (Buddhism, Hinduism, Confucianism, Daoism)](https://plato.stanford.edu/entries/buddha/) (use search for specific entries: Buddhism, Hinduism, Confucianism, Daoism)
+
+### Language Foundations
+
+- [Mandarin / Japanese / Hindi (Coursera or equivalent beginner courses)](https://www.coursera.org/learn/learn-chinese)
+
+## II. Core Regional Histories
+
+### East Asia (China, Korea, Japan)
+
+- [Ebrey & Walthall – _East Asia: A Cultural, Social, and Political History_](https://www.perlego.com/book/801936/east-asia-a-cultural-social-and-political-history-volume-ii-from-1600-pdf)
+- [Harvard edX – China Humanities Series](https://www.edx.org/learn/chinese-history/harvard-university-china-humanities-the-individual-in-chinese-culture)
+
+### South Asia (India, Pakistan, Bangladesh, Sri Lanka)
+
+- [John Keay – _India: A History_](https://archive.org/details/indiahistoryfrom0000keay)
+- [Yale Open Courses – South Asian Civilizations](https://online.yale.edu/courses/religions-and-ecology-restoring-earth-community-specialization)
+
+### Southeast Asia
+
+- [Milton Osborne – _Southeast Asia: An Introductory History_](https://archive.org/details/southeastasiaint0000osbo_t3o7)
+- [NUS OpenCourseWare – Southeast Asian Studies](https://asiasociety.org/education/introduction-southeast-asia)
+
+## III. Asian Philosophical Traditions
+
+### Indian Traditions
+
+- [_Bhagavad Gita_ (Purohit Swami)](https://bhagavadgitam.com/translations/The-Bhagavad-Gita-Translation-by-Shri-Purohit-Swami.pdf)
+- [Stanford Encyclopedia – Vedanta, Yoga](https://plato.stanford.edu/entries/shankara/)
+
+### Chinese Traditions
+
+- [Stanford Encyclopedia – Confucianism, Daoism, Buddhism](https://plato.stanford.edu/entries/confucius/) (use search for specific entries)
+
+### Buddhist Worlds
+
+- [Access to Insight](https://www.accesstoinsight.org/)
+- [Tricycle Beginner Series (free)](https://tricycle.org/beginners/)
+
+## IV. Asian Literatures & Arts
+
+### Literary Traditions
+
+- [Anthologies of Asian Literature in Translation](https://archive.org/search?query=asian+literature+anthology+translation)
+- [Coursera – Classics of Chinese Humanities](https://www.edx.org/learn/chinese-history/harvard-university-china-humanities-the-individual-in-chinese-culture)
+
+### Visual & Performing Arts
+
+- [Khan Academy – Asian Art History](https://www.khanacademy.org/humanities/art-asia)
+- [Met Museum Open Access – Asian Collections](https://www.metmuseum.org/art/collection/search?department=6&showOnly=openAccess)
+
+## V. Modern Asia: Society, Politics, Economy
+
+### Colonialism & Independence
+
+- [Yale Open Courses – Modern South Asia](https://online.yale.edu/courses/south-asian-religions-ecology)
+- [Harvard edX – China in the Modern World](https://www.edx.org/xseries/harvard-university-china-modern-world)
+
+### Politics & International Relations
+
+- [MIT OCW – International Relations of East Asia](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2005/) (related East Asia policy course)
+- [MIT OCW – Political Economy of Asia](https://ocw.mit.edu/courses/17-55j-introduction-to-latin-american-studies-fall-2006/)
+
+### Development & Globalization
+
+- [World Bank – East Asia & South Asia Development Reports](https://www.worldbank.org/en/region/eap/publication/east-asia-pacific-economic-update)
+- [UNDP Asia-Pacific Reports](https://www.undp.org/asia-pacific/publications)
+
+## VI. Advanced Regional Specialization
+
+### East Asia
+
+- [de Bary – _Sources of Chinese Tradition_ (vol. 1–2)](https://archive.org/details/sourcesofchinese0001deba)
+- [MIT OCW – East Asia in the World](https://ocw.mit.edu/courses/21h-504-east-asia-in-the-world-fall-2003/)
+
+### South Asia
+
+- [Guha – _India After Gandhi_](https://archive.org/details/indiaaftergandhi00guha)
+- [Upanishads, Mahabharata](https://archive.org/details/mahabharata-part-1)
+
+### Southeast Asia
+
+- [NUS – Southeast Asian Politics](https://asiasociety.org/education/introduction-southeast-asia) (related open resources)
+- [Access to Insight – Theravada Buddhism](https://www.accesstoinsight.org/)
+
+## VII. Advanced Language & Texts
+
+(_work in progress_)
 
 ## Congratulations
 
@@ -132,6 +230,3 @@ Congratulations!
 # Code of conduct
 
 [Hocbigg's code of conduct](https://github.com/hocbigg/code-of-conduct).
-
-
-
