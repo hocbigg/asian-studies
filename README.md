@@ -126,7 +126,7 @@ You can pursue this track alone or combine it with a regional specialization (es
 ### Big-Picture Asian History
 
 - [BBC – _A History of the World in 100 Objects_ (Asia episodes)](https://www.bbc.co.uk/programmes/b00nrtd2/episodes/guide)
-- [Yale Open Courses – Introduction to Asian Civilizations](https://online.yale.edu/courses/east-asian-religions-ecology) (Note: Direct full course unavailable; closest related open Yale content on Asian religions/civilizations)
+- [Yale Open Courses – Introduction to Asian Civilizations](https://online.yale.edu/courses/east-asian-religions-ecology)
 
 ### Major Religious Traditions of Asia
 
@@ -192,7 +192,7 @@ You can pursue this track alone or combine it with a regional specialization (es
 
 ### Politics & International Relations
 
-- [MIT OCW – International Relations of East Asia](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2005/) (related East Asia policy course)
+- [MIT OCW – International Relations of East Asia](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2005/)
 - [MIT OCW – Political Economy of Asia](https://ocw.mit.edu/courses/17-55j-introduction-to-latin-american-studies-fall-2006/)
 
 ### Development & Globalization
@@ -214,7 +214,7 @@ You can pursue this track alone or combine it with a regional specialization (es
 
 ### Southeast Asia
 
-- [NUS – Southeast Asian Politics](https://asiasociety.org/education/introduction-southeast-asia) (related open resources)
+- [NUS – Southeast Asian Politics](https://asiasociety.org/education/introduction-southeast-asia)
 - [Access to Insight – Theravada Buddhism](https://www.accesstoinsight.org/)
 
 ## VII. Advanced Language & Texts
