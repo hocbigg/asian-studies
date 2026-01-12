@@ -45,8 +45,7 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
   - [r/southeastasia](https://www.reddit.com/r/southeastasia/)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/asian-studies/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
 - Join our Discord server (for discussions around this and other curricula): 
-    
-    [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
+  :  [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
 # Curriculum
 
@@ -81,20 +80,15 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
 
 These five sections form the essential backbone of the discipline. Study them in this exact order:
 
-1. **I. Pan-Asian Foundations**  
-   Start here. This section gives you the basic geographical, historical, religious, and linguistic context shared across much of Asia.
+**I. Pan-Asian Foundations**: Start here. This section gives you the basic geographical, historical, religious, and linguistic context shared across much of Asia.
 
-2. **II. Core Regional Histories**  
-   Next, learn the major historical development of the three main sub-regions of Asia (East, South, and Southeast). This is the historical spine of the field.
+**II. Core Regional Histories**: Next, learn the major historical development of the three main sub-regions of Asia (East, South, and Southeast). This is the historical spine of the field.
 
-3. **III. Asian Philosophical Traditions**  
-   After history, study the major ways of thinking and belief systems that have shaped Asian societies for centuries.
+**III. Asian Philosophical Traditions**: After history, study the major ways of thinking and belief systems that have shaped Asian societies for centuries.
 
-4. **IV. Asian Literatures & Arts**  
-   Then explore how Asian cultures have expressed ideas, values, and experiences through literature, visual art, and performance.
+**IV. Asian Literatures & Arts**: Then explore how Asian cultures have expressed ideas, values, and experiences through literature, visual art, and performance.
 
-5. **V. Modern Asia: Society, Politics, Economy**  
-   Finish the core by understanding how Asia changed in the last two centuries – colonialism, independence, modern states, and economic transformation.
+**V. Modern Asia: Society, Politics, Economy**: Finish the core by understanding how Asia changed in the last two centuries – colonialism, independence, modern states, and economic transformation.
 
 ### Specialization Tracks
 
