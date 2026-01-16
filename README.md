@@ -4,11 +4,6 @@
 <p>
   Path to a free self-taught education in Asian Studies!
 </p>
-<p>
-  <a href="https://github.com/hocbigg/asian-studies">
-    <img alt="Hocbigg" src="/images/view_on_github.svg"
-  ></a>
-</p>
 </div>
 
 # Contents
@@ -20,14 +15,14 @@
 
 # Summary
 
-The Asian Studies curriculum is a **complete education in Asian Studies** using online materials. The program emphasizes interdisciplinary approaches, balancing history, culture, religion, philosophy, politics, and language proficiency.
+The Asian Studies curriculum is a complete education in Asian Studies using online materials. The program emphasizes interdisciplinary approaches, balancing history, culture, religion, philosophy, politics, and language proficiency.
 
 Asian Studies is inherently broad, covering East Asia (China, Japan, Korea), South Asia (India, Pakistan, Bangladesh, etc.), and Southeast Asia. Students should select a primary regional focus early (e.g., East Asia) while maintaining comparative exposure.
 
 Language study runs parallel throughout, aiming for intermediate proficiency in one Asian language (e.g., Chinese, Japanese, Hindi, or another relevant to the chosen region).
 
 Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md) or [extras/other_curricula](extras/other_curricula.md).
+they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md).
 
 
 **[How to contribute](/CONTRIBUTING.html)**
@@ -80,23 +75,23 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
 
 These five sections form the essential backbone of the discipline. Study them in this exact order:
 
-**I. Pan-Asian Foundations**: Start here. This section gives you the basic geographical, historical, religious, and linguistic context shared across much of Asia.
+I. Pan-Asian Foundations: Start here. This section gives you the basic geographical, historical, religious, and linguistic context shared across much of Asia.
 
-**II. Core Regional Histories**: Next, learn the major historical development of the three main sub-regions of Asia (East, South, and Southeast). This is the historical spine of the field.
+II. Core Regional Histories: Next, learn the major historical development of the three main sub-regions of Asia (East, South, and Southeast). This is the historical spine of the field.
 
-**III. Asian Philosophical Traditions**: After history, study the major ways of thinking and belief systems that have shaped Asian societies for centuries.
+III. Asian Philosophical Traditions: After history, study the major ways of thinking and belief systems that have shaped Asian societies for centuries.
 
-**IV. Asian Literatures & Arts**: Then explore how Asian cultures have expressed ideas, values, and experiences through literature, visual art, and performance.
+IV. Asian Literatures & Arts: Then explore how Asian cultures have expressed ideas, values, and experiences through literature, visual art, and performance.
 
-**V. Modern Asia: Society, Politics, Economy**: Finish the core by understanding how Asia changed in the last two centuries – colonialism, independence, modern states, and economic transformation.
+V. Modern Asia: Society, Politics, Economy: Finish the core by understanding how Asia changed in the last two centuries – colonialism, independence, modern states, and economic transformation.
 
 ### Specialization Tracks
 
 After finishing the five Core sections, you have two main choices:
 
-**VI. Advanced Regional Specialization**
+VI. Advanced Regional Specialization
 
-Pick **one** (or at most two) of the three sub-regions:
+Pick one (or at most two) of the three sub-regions:
 
 - East Asia
 - South Asia
@@ -104,7 +99,7 @@ Pick **one** (or at most two) of the three sub-regions:
 
 Go deeper into the region that interests you most. This track builds directly on section II and lets you develop stronger expertise in one major cultural-historical area.
 
-**VII. Advanced Language & Texts**
+VII. Advanced Language & Texts
 
 Choose this track if you want to move toward reading primary sources and engaging with contemporary Asian societies in their own languages.
 
@@ -186,7 +181,7 @@ You can pursue this track alone or combine it with a regional specialization (es
 
 ### Politics & International Relations
 
-- [MIT OCW – International Relations of East Asia](https://ocw.mit.edu/courses/17-408-chinese-foreign-policy-fall-2005/)
+- [MIT OCW – International Relations of East Asia](https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/)
 - [MIT OCW – Political Economy of Asia](https://ocw.mit.edu/courses/17-55j-introduction-to-latin-american-studies-fall-2006/)
 
 ### Development & Globalization
@@ -198,8 +193,8 @@ You can pursue this track alone or combine it with a regional specialization (es
 
 ### East Asia
 
-- [de Bary – _Sources of Chinese Tradition_ (vol. 1–2)](https://archive.org/details/sourcesofchinese0001deba)
-- [MIT OCW – East Asia in the World](https://ocw.mit.edu/courses/21h-504-east-asia-in-the-world-fall-2003/)
+- [de Bary – _Sources of Chinese Tradition_ (vol. 1–2)](https://archive.org/details/sourcesofchinese0000deba)
+- [MIT OCW – East Asia in the World](https://ocw.mit.edu/courses/21h-504-east-asia-in-the-world-spring-2003/)
 
 ### South Asia
 
