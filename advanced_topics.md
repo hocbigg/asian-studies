@@ -1,45 +1,61 @@
-# Advanced Topics
+# Advanced Topics in Asian Studies
 
-- [Advanced Regional Specialization](#advanced-regional-specialization)
-  - [East Asia](#east-asia)
-  - [South Asia](#south-asia)
-  - [Southeast Asia](#southeast-asia)
+After completing the core undergraduate foundation in Pan-Asian history, classical philosophies, regional literatures, and modern institutions, advanced students branch out into specialized research trajectories. This advanced curriculum provides five interdisciplinary specialization tracks designed for upper-division research, graduate preparation, and applied policy analysis.
 
-After finishing the five Core sections, you have two main choices:
+### Specialization Tracks Index
 
-VI. Advanced Regional Specialization
+- [Geopolitics, Security, and Strategic Competition in the Indo-Pacific](#geopolitics-security-and-strategic-competition-in-the-indo-pacific): Investigates great-power competition, maritime flashpoints, nuclear deterrence, and regional security architectures across the Indo-Pacific corridor.
+- [Comparative Political Economy and State Transformations](#comparative-political-economy-and-state-transformations): Analyzes developmental state models, industrial policies, authoritarian state capitalism, agrarian shifts, and technology supply-chain dynamics.
+- [Critical Asian Historiography and Decolonial Methodologies](#critical-asian-historiography-and-decolonial-methodologies): Explores Subaltern Studies, borderland spatialities, decolonial theory, and critical approaches to knowledge production across Asia.
+- [Religion, Secularism, and Identity Politics in Modern Asia](#religion-secularism-and-identity-politics-in-modern-asia): Examines modern religious nationalisms, state-religion institutional boundaries, caste and minority politics, and politicized spiritual movements.
+- [Environmental Humanities, Hydropolitics, and Climate Governance](#environmental-humanities-hydropolitics-and-climate-governance): Interrogates transboundary river basins, climate adaptation, resource extractivism, and environmental justice movements in monsoon Asia.
 
-Pick one (or at most two) of the three sub-regions:
+## Geopolitics, Security, and Strategic Competition in the Indo-Pacific
 
-- East Asia
-- South Asia
-- Southeast Asia
+| Topic | Why Study | Resources |
+| :--- | :--- | :--- |
+| **Hegemonic Rivalry and US-China Strategic Competition** | Investigates power transition dynamics, structural realism in East Asia, and the contest for regional hegemony between Washington and Beijing. | - *International Relations of Asia* (3rd ed.) edited by David Shambaugh (Rowman & Littlefield)<br>- *Asia's Reckoning: China, Japan, and the Fate of U.S. Power in the Pacific Century* by Richard McGregor (Penguin)<br>- *By More Than Providence: Grand Strategy and American Power in the Asia Pacific Since 1783* by Michael J. Green (Columbia University Press) |
+| **Maritime Security and the Law of the Sea in Asian Waters** | Analyzes maritime sovereignty disputes, UNCLOS legal contestations, gray-zone coercion, and strategic chokepoints in the South China Sea, East China Sea, and Malacca Strait. | - *The South China Sea: The Struggle for Power in Asia* by Bill Hayton (Yale University Press)<br>- *Contested Waters: An Island Strategy for the South China Sea* by Center for Strategic and International Studies ([csis.org](https://www.csis.org/))<br>- *Maritime Strategy and Global Order* edited by Daniel Moran and Russell A. Caldwell (Georgetown University Press) |
+| **Regional Architectures: ASEAN Centrality, Minilateralism, and the Quad** | Explores the institutional tension between inclusive multilateral bodies (ASEAN, EAS) and emerging minilateral security pacts (Quad, AUKUS, SCO). | - *ASEAN Centrality and the Emerging Indo-Pacific Architecture* by Amitav Acharya (Cambridge University Press)<br>- *The United States and Asia: Regional Dynamics and Twenty-First-Century Relations* by Robert G. Sutter (Rowman & Littlefield)<br>- Research Papers Series by [ISEAS – Yusof Ishak Institute](https://www.iseas.edu.sg/) |
+| **Nuclear Deterrence, Escalation, and Crisis Stability** | Examines the multi-polar nuclear dynamic among China, India, Pakistan, and North Korea, focusing on asymmetric doctrines, second-strike survivability, and escalation risks. | - *The India-Pakistan Nuclear Subcontinent: Deterrence and Escalation* by P. R. Chari, Pervaiz Iqbal Cheema, and Stephen P. Cohen (Brookings Institution Press)<br>- *Nuclear Modernization in Asia* by the [National Bureau of Asian Research](https://www.nbr.org/)<br>- *China's Nuclear Force Modernization* (SIPRI Strategic Dossiers, [sipri.org](https://www.sipri.org/)) |
+| **Cross-Strait Dynamics and Taiwan Defense Politics** | Assesses military deterrence, economic integration, identity politics, and potential conflict pathways across the Taiwan Strait within regional security matrices. | - *The Taiwan Strait: Geopolitics, History, and the Future of East Asia* by Shelley Rigger (Rowman & Littlefield)<br>- *Danger Zone: The Coming Conflict with China* by Hal Brands and Michael Beckley (W. W. Norton)<br>- Brookings Foreign Policy Reports on Cross-Strait Relations ([brookings.edu](https://www.brookings.edu/)) |
 
-Go deeper into the region that interests you most. This track builds directly on section II and lets you develop stronger expertise in one major cultural-historical area.
+## Comparative Political Economy and State Transformations
 
-VII. Advanced Language & Texts
+| Topic | Why Study | Resources |
+| :--- | :--- | :--- |
+| **The East Asian Developmental State Model and Industrial Upgrading** | Deconstructs the bureaucratic pilot agencies, export-oriented industrialization policies, and state-capital alliances that engineered the Northeast Asian high-growth miracle. | - *MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925-1975* by Chalmers Johnson (Stanford University Press)<br>- *Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization* by Robert Wade (Princeton University Press)<br>- *Asia's Next Giant: South Korea and Late Industrialization* by Alice H. Amsden (Oxford University Press) |
+| **State Capitalism, Technonationalism, and China's Political Economy** | Evaluates the institutional mechanisms of China's market-Leninism, the role of State-Owned Enterprises (SOEs), digital authoritarianism, and high-tech supply chain sovereignty. | - *The State Strikes Back: The End of Economic Reform in China?* by Nicholas R. Lardy (Peterson Institute for International Economics)<br>- *The Rise of Technonationalism in Asia* (NBR Strategic Asia Series, [nbr.org](https://www.nbr.org/))<br>- *China's Gilded Age: The Paradox of Economic Boom and Vast Corruption* by Yuen Yuen Ang (Cambridge University Press) |
+| **Agrarian Transitions, Land Politics, and Informal Labor** | Investigates rural-to-urban transformation, smallholder dispossession, internal labor migration (e.g., the *Hukou* and Indian informal labor systems), and spatial inequality. | - *The Political Economy of India's Growth* by Pranab Bardhan (Oxford University Press)<br>- *Agrarian Angst and Rural Transformation in Southeast Asia* by Derek Hall, Philip Hirsch, and Tania Murray Li (University of Hawaii Press)<br>- *The Land Bargain: Working-Class Mobilization in Industrializing Asia* by Ching Kwan Lee (University of California Press) |
+| **Infrastructure Statecraft, Sovereign Debt, and the Belt and Road** | Interrogates how capital exports, transport corridors, and dual-use port infrastructure reshape spatial connectivity and geoeconomic dependencies across Eurasia. | - *Rivers of Iron: Railroads and Chinese Power in Southeast Asia* by David M. Lampton, Selina Ho, and Cheng-Chwee Kuik (University of California Press)<br>- *Belt and Road: A Chinese World Order* by Bruno Maçães (Oxford University Press)<br>- Policy Research and Data Portals by [Asian Development Bank Institute](https://www.adb.org/adbi) |
+| **Democratic Backsliding, Autocratization, and Illiberal Regimes** | Tracks the resurgence of dynastic politics, military coups, and competitive authoritarianism across contemporary South and Southeast Asia. | - *Authoritarian Contagion: The Global Threat to Democracy in Southeast Asia* by Lee Morgenbesser (Brookings Institution Press)<br>- *Patronage Democracy in the Philippines* by Paul D. Hutchcroft (University of Wisconsin Press)<br>- *Democracy and Its Critics in South Asia* by Ayesha Jalal (Cambridge University Press) |
 
-Choose this track if you want to move toward reading primary sources and engaging with contemporary Asian societies in their own languages.
+## Critical Asian Historiography and Decolonial Methodologies
 
-You can pursue this track alone or combine it with a regional specialization (especially useful if you want to read original historical or literary texts from your chosen region).
+| Topic | Why Study | Resources |
+| :--- | :--- | :--- |
+| **Subaltern Studies and Postcolonial Historiographical Critique** | Deconstructs Eurocentric historiographies by examining history from the perspective of peasant insurgencies, non-elite actors, and colonized subalterns. | - *Provincializing Europe: Postcolonial Thought and Historical Difference* by Dipesh Chakrabarty (Princeton University Press)<br>- *Selected Subaltern Studies* edited by Ranajit Guha and Gayatri Chakravorty Spivak (Oxford University Press)<br>- *Elementary Aspects of Peasant Insurgency in Colonial India* by Ranajit Guha (Duke University Press) |
+| **"Asia as Method" and Inter-Referencing Asian Modernities** | Challenges Western academic hegemony by using Asian societies as each other's point of theoretical and cultural reference rather than anchoring all theory in Euro-America. | - *Asia as Method: Toward Deimperialization* by Kuan-Hsing Chen (Duke University Press)<br>- *Rescuing History from the Nation: Questioning Narratives of Modern China* by Prasenjit Duara (University of Chicago Press)<br>- *Inter-Asia Cultural Studies Journal* (Routledge / Taylor & Francis) |
+| **Zomia and Non-State Spatialities in Upland Asia** | Analyzes how ethnic minorities and upland communities in highland Southeast and South Asia structured their societies to deliberately evade lowland state-making, taxation, and conscription. | - *The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia* by James C. Scott (Yale University Press)<br>- *The Sovereign Map: Theoretical Approaches in Asian Spatial History* by Christian Jacob (University of Chicago Press)<br>- *Frontier Encampments: State Expansion and Minoritized Spaces* (Cambridge Core) |
+| **Cold War Transnationalisms, Bandung, and Non-Alignment** | Reconstructs Asian anti-colonial networks, Afro-Asian solidarity movements, and third-world internationalist alternatives outside the US-Soviet binary. | - *Underground Asia: Global Revolutionaries and the Assault on Empire* by Tim Harper (Harvard University Press)<br>- *The Bandung Conference and the Third World: A Critical Reevaluation* by See Seng Tan and Amitav Acharya (NUS Press)<br>- Digital Archive: International History Declassified by [Wilson Center Digital Archive](https://digitalarchive.wilsoncenter.org/) |
+| **Archival Hermeneutics, Epigraphy, and Asian Script Research** | Trains scholars in the methodological interpretation of primary Asian epigraphical records, colonial administrative archives, and translated vernacular chronicles. | - *Sources of Indian Traditions* (Vols. 1 & 2) edited by Ainslie T. Embree and Stephen N. Hay (Columbia University Press)<br>- *Sources of Chinese Tradition* (Vols. 1 & 2) edited by Wm. Theodore de Bary and Irene Bloom (Columbia University Press)<br>- Open Digital Primary Archives by [South Asia Open Archives (SAOA)](https://www.crl.edu/programs/saoa) |
 
-## Advanced Regional Specialization
+## Religion, Secularism, and Identity Politics in Modern Asia
 
-### East Asia
+| Topic | Why Study | Resources |
+| :--- | :--- | :--- |
+| **Majoritarianism and Hindu Nationalism in South Asia** | Explores the ideological genealogy of Hindutva, democratic populist mobilization, cultural majoritarianism, and minority citizenship rights in modern India. | - *The Saffron Wave: Democracy and Hindu Nationalism in Modern India* by Thomas Blom Hansen (Princeton University Press)<br>- *Hindutva: Exploring the Idea of Hindu Nationalism* by Jyotirmaya Sharma (Penguin India)<br>- *Majoritarian State: How Hindu Nationalism is Changing India* edited by Angana P. Chatterji, Thomas Blom Hansen, and Christophe Jaffrelot (Oxford University Press) |
+| **Buddhist Nationalism and Communal Conflict** | Analyzes the intersection of Theravada Buddhist revivalism, monastic political mobilization, and violent communal conflict in Myanmar and Sri Lanka. | - *Buddhist Warfare* edited by Michael Jerryson and Mark Juergensmeyer (Oxford University Press)<br>- *Buddhism, Politics, and Political Violence* edited by Mahinda Deegalle (Routledge)<br>- *The Rebel Monk: Politics and Buddhism in Modern Sri Lanka* by H. L. Seneviratne (University of Chicago Press) |
+| **State Regulation of Religion and Ritual Revival in East Asia** | Investigates how contemporary Chinese and East Asian states supervise, co-opt, and regulate religious life while redrawing the boundaries of legitimate religion versus superstition. | - *The Religious Question in Modern China* by Vincent Goossaert and David A. Palmer (University of Chicago Press)<br>- *Redeeming Religion: Social Action and Religious Mobilization in East Asia* (University of Chicago Press)<br>- *Religion in Contemporary China: Revitalization and State Control* (Stanford University Press) |
+| **Political Islam and Pluralism in Southeast Asia** | Examines the evolution of Islamic governance, Sharia institutionalization, moderate pluralism (Nahdlatul Ulama, Muhammadiyah), and conservative turn in Indonesia and Malaysia. | - *Islam and Politics in Southeast Asia* by Joseph Chinyong Liow (Routledge)<br>- *Defending the Faith: Conservative Islamic Movements in Indonesia* (Cornell Southeast Asia Program Publications)<br>- *Shari'a and Social Engineering: The Implementation of Islamic Law in Contemporary Aceh* by R. Michael Feener (Oxford University Press) |
+| **Caste, Gender, and Subaltern Emancipation Movements** | Explores the socio-political movements of Dalits, indigenous Adivasis, and Asian feminist activists contesting patriarchal and caste-based hierarchies. | - *Dalit Visions: The Anti-Caste Movement and the Construction of an Indian Identity* by Gail Omvedt (Orient Blackswan)<br>- *The Gender of Modernity in East Asia* by Tani Barlow (Duke University Press)<br>- *Castes of Mind: Colonialism and the Making of Modern India* by Nicholas B. Dirks (Princeton University Press) |
 
-- [de Bary – _Sources of Chinese Tradition_ (vol. 1–2)](https://archive.org/details/sourcesofchinese0000deba)
-- [MIT OCW – East Asia in the World](https://ocw.mit.edu/courses/21h-504-east-asia-in-the-world-spring-2003/)
+## Environmental Humanities, Hydropolitics, and Climate Governance
 
-### South Asia
-
-- [Guha – _India After Gandhi_](https://archive.org/details/indiaaftergandhi00guha)
-- [Upanishads, Mahabharata](https://archive.org/details/mahabharata-part-1)
-
-### Southeast Asia
-
-- [NUS – Southeast Asian Politics](https://asiasociety.org/education/introduction-southeast-asia)
-- [Access to Insight – Theravada Buddhism](https://www.accesstoinsight.org/)
-
-## Advanced Language & Texts
-
-(_work in progress_)
+| Topic | Why Study | Resources |
+| :--- | :--- | :--- |
+| **Transboundary Hydropolitics in Asian River Basins** | Analyzes the security, food, and energy implications of upstream dam construction and water diversion across the Mekong, Brahmaputra, and Indus rivers. | - *Unruly Waters: How Mountain Rivers and Monsoons Have Shaped South Asia's History* by Sunil Amrith (Basic Books)<br>- *The Mekong: Biophysical Environment of an International River Basin* by Ian C. Campbell (Academic Press / Elsevier)<br>- *Water, Civilization, and Power in the Brahmaputra Basin* (Routledge Contemporary South Asia Series) |
+| **Monsoon Ecologies and Climate Adaptation in Vulnerable Deltas** | Examines how climatic volatility, sea-level rise, and storm surges impact densely populated river deltas and archipelagos (e.g., Bengal Delta, Mekong Delta, Indonesian Archipelago). | - *The Nutmeg's Curse: Parables for a Planet in Crisis* by Amitav Ghosh (University of Chicago Press)<br>- *The Great Derangement: Climate Change and the Unthinkable* by Amitav Ghosh (University of Chicago Press)<br>- Reports on Climate Vulnerability and Resilience in Asia by [Asian Development Bank](https://www.adb.org/) |
+| **Resource Extractivism, Critical Minerals, and Energy Transitions** | Explores the geopolitical, environmental, and human rights dimensions of mineral extraction (nickel, rare earths, lithium) across Southeast and Central Asia for global energy supply chains. | - *Asia's Energy Revolution: China's Role and New Opportunities* by Joseph Jacobelli (De Gruyter)<br>- *Extractive Bargains: Natural Resources and State-Society Relations in Southeast Asia* (Cornell University Press)<br>- *Resource Extraction and Environmental Resistance in Southeast Asia* (Routledge) |
+| **Megacity Urbanism, Atmospheric Governance, and Air Pollution** | Investigates the spatial, health, and policy crises generated by hyper-urbanization, industrial emissions, and transboundary seasonal haze across Asian megacities. | - *Urban Air Pollution in Asian Cities: Science and Policy* (World Bank Publications)<br>- *Atmospheric Infrastructures: Megacities and the Air We Breathe* (Duke University Press)<br>- *Worlding Cities: Asian Experiments and the Art of Being Global* edited by Ananya Roy and Aihwa Ong (Wiley-Blackwell) |
+| **Indigenous Environmentalisms and Agrarian Resistance** | Studies community-based conservation, forest rights legislation, and grassroots anti-dam struggles led by indigenous and peasant populations against state-led developmental projects. | - *Nature, Culture, Imperialism: Essays on the Environmental History of South Asia* edited by David Arnold and Ramachandra Guha (Oxford University Press)<br>- *Varieties of Environmentalism: Essays North and South* by Ramachandra Guha and Juan Martínez-Alier (Routledge)<br>- *Ecological Resistance Movements in East and Southeast Asia* (State University of New York Press) |
