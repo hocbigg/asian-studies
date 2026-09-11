@@ -1,77 +1,309 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light dark">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
 
-<title>Advanced Topics</title>
-<link rel="stylesheet" href="/asian-studies/style.css">
-<meta name="description" content="">
+  <title>Advanced Topics in Asian Studies</title>
+  <meta name="description" content="A lightweight static page by hocbigg.">
+  <meta name="author" content="hocbigg">
 
-<link rel="canonical" href="https://hocbigg.github.io/asian-studies/">
+  <link rel="canonical" href="https://hocbigg.github.io/asian-studies/advanced_topics.html">
+  <meta property="og:title" content="Advanced Topics in Asian Studies">
+  <meta property="og:description" content="A lightweight static page by hocbigg.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://hocbigg.github.io/asian-studies/advanced_topics.html">
+  <link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
 
-<meta property="og:title" content="Advanced Topics">
-<meta property="og:description" content="">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://hocbigg.github.io/asian-studies/">
-<meta name="author" content="hocbigg">
-<link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
+  <style>
+:root {
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --muted: #595959;
+  --border: #e0e0e0;
+  --th-bg: #f6f8fa;
+  --code-bg: #f4f4f4;
+  --link: #0969da;
+  --focus-ring: #0969da;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #8b949e;
+    --border: #30363d;
+    --th-bg: #161b22;
+    --code-bg: #161b22;
+    --link: #58a6ff;
+    --focus-ring: #58a6ff;
+  }
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 1.5rem auto;
+  max-width: min(60rem, 92vw);
+  padding: 0 0.75rem 3.5rem;
+  background-color: var(--bg);
+  color: var(--fg);
+  font: 1.15rem/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  word-wrap: break-word;
+}
+
+.site-header {
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0.5rem 1.25rem;
+  font-size: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+nav a:hover, 
+nav a:focus-visible {
+  color: var(--fg);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+nav .nav-brand {
+  color: var(--fg);
+  font-weight: 700;
+  margin-right: 0.5rem;
+}
+
+.skip-link {
+  position: absolute;
+  top: -9999px;
+  left: 1rem;
+  background: var(--fg);
+  color: var(--bg);
+  padding: 0.5rem 1rem;
+  z-index: 100;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 4px;
+}
+.skip-link:focus {
+  top: 1rem;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 3px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  margin-top: 1.75em;
+  margin-bottom: 0.5em;
+  color: var(--fg);
+}
+h1 { font-size: 1.85rem; margin-top: 0.5em; }
+h2 { font-size: 1.45rem; }
+h3 { font-size: 1.2rem; }
+
+p, ul, ol, blockquote, table {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+}
+
+li > ul,
+li > ol {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+}
+
+li {
+  margin-bottom: 0.25rem;
+}
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.page-header img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 1rem;
+  display: block;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.875em;
+  background-color: var(--code-bg);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+}
+pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+  tab-size: 2;
+}
+pre code {
+  background: transparent;
+  padding: 0;
+  border: none;
+  font-size: 0.9rem;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+th, td {
+  border: 1px solid var(--border);
+  padding: 0.6rem 0.75rem;
+  vertical-align: top;
+}
+th {
+  background-color: var(--th-bg);
+  font-weight: 600;
+}
+
+blockquote {
+  border-left: 4px solid var(--border);
+  padding-left: 1rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+@media print {
+  body {
+    max-width: none;
+    color: #000;
+    background: #fff;
+  }
+  .skip-link, nav {
+    display: none;
+  }
+}
+  </style>
 </head>
-
 <body>
 
-<nav>
-<a href="/">Hocbigg</a>
-<a href="/asian-studies/">Asian-Studies</a>
-<a href="/asian-studies/advanced_topics.html">Advanced Topics</a>
-<a href="/asian-studies/extras/courses.html">Extra Courses</a>
-<a href="/asian-studies/extras/readings.html">Extra Reading</a>
-<a href="https://github.com/hocbigg/asian-studies/" target="_blank">View on Github</a>
-</nav>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
 
-<main>
-<article>
+  <header class="site-header">
+    <nav aria-label="Main Navigation">
+    <ul>
+      <li><a href="https://hocbigg.github.io/" class="nav-brand">Hocbigg</a></li>
+      <li><a href="/asian-studies/">Asian Studies</a></li>
+      <li><a href="/asian-studies/advanced_topics.html">Advanced Topics</a></li>
+      <li><a href="/asian-studies/extras/readings.html">Extra Readings</a></li>
+      <li><a href="/asian-studies/extras/courses.html">Extra Courses</a></li>
+      <li><a href="/asian-studies/resources.html">Resources</a></li>
+      <li><a href="https://github.com/hocbigg/" target="_blank" rel="noopener noreferrer">GitHub<span class="sr-only"> (opens in new tab)</span></a></li>
+    </ul>
+    </nav>
+  </header>
 
-<h1 id="advanced-topics">Advanced Topics</h1>
+  <main id="main-content">
+    <article>
+
+<h1 id="advanced-topics-in-asian-studies">Advanced Topics in Asian Studies</h1>
+<p>After completing the core undergraduate foundation in Pan-Asian history, classical philosophies, regional literatures, and modern institutions, advanced learners branch out into specialized research trajectories. This advanced curriculum provides five interdisciplinary specialization tracks designed for upper-division research, independent inquiry, and applied policy analysis.</p>
 <ul>
-<li><a href="#advanced-regional-specialization">Advanced Regional Specialization</a></li>
-<li><a href="#east-asia">East Asia</a></li>
-<li><a href="#south-asia">South Asia</a></li>
-<li><a href="#southeast-asia">Southeast Asia</a></li>
+<li><a href="#geopolitics-security-and-strategic-competition-in-the-indo-pacific">Geopolitics, Security, and Strategic Competition in the Indo-Pacific</a>: Investigates great-power competition, maritime flashpoints, nuclear deterrence doctrines, and regional security architectures across the Indo-Pacific corridor.</li>
+<li><a href="#comparative-political-economy-and-state-transformations">Comparative Political Economy and State Transformations</a>: Analyzes developmental state models, industrial policies, state capitalism, agrarian shifts, and infrastructure statecraft across Asia.</li>
+<li><a href="#critical-asian-historiography-decolonial-methodologies-and-subalternity">Critical Asian Historiography, Decolonial Methodologies, and Subalternity</a>: Explores Subaltern Studies, borderland spatialities, "Asia as Method," and critical approaches to knowledge production.</li>
+<li><a href="#religion-secularism-and-identity-politics-in-modern-asia">Religion, Secularism, and Identity Politics in Modern Asia</a>: Examines modern religious nationalisms, state-religion institutional boundaries, caste assertion, and politicized spiritual movements.</li>
+<li><a href="#environmental-humanities-hydropolitics-and-climate-governance">Environmental Humanities, Hydropolitics, and Climate Governance</a>: Interrogates transboundary river basins, monsoon ecologies, critical mineral extraction, and atmospheric governance across Asia.</li>
 </ul>
-<p>After finishing the five Core sections, you have two main choices:</p>
-<p>VI. Advanced Regional Specialization</p>
-<p>Pick one (or at most two) of the three sub-regions:</p>
-<ul>
-<li>East Asia</li>
-<li>South Asia</li>
-<li>Southeast Asia</li>
-</ul>
-<p>Go deeper into the region that interests you most. This track builds directly on section II and lets you develop stronger expertise in one major cultural-historical area.</p>
-<p>VII. Advanced Language &amp; Texts</p>
-<p>Choose this track if you want to move toward reading primary sources and engaging with contemporary Asian societies in their own languages.</p>
-<p>You can pursue this track alone or combine it with a regional specialization (especially useful if you want to read original historical or literary texts from your chosen region).</p>
-<h2 id="advanced-regional-specialization">Advanced Regional Specialization</h2>
-<h3 id="east-asia">East Asia</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/sourcesofchinese0000deba">de Bary – <em>Sources of Chinese Tradition</em> (vol. 1–2)</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://ocw.mit.edu/courses/21h-504-east-asia-in-the-world-spring-2003/">MIT OCW – East Asia in the World</a></li>
-</ul>
-<h3 id="south-asia">South Asia</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/indiaaftergandhi00guha">Guha – <em>India After Gandhi</em></a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/mahabharata-part-1">Upanishads, Mahabharata</a></li>
-</ul>
-<h3 id="southeast-asia">Southeast Asia</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://asiasociety.org/education/introduction-southeast-asia">NUS – Southeast Asian Politics</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.accesstoinsight.org/">Access to Insight – Theravada Buddhism</a></li>
-</ul>
-<h2 id="advanced-language-texts">Advanced Language &amp; Texts</h2>
-<p>(<em>work in progress</em>)</p>
-</article>
-</main>
+<h2 id="geopolitics-security-and-strategic-competition-in-the-indo-pacific">Geopolitics, Security, and Strategic Competition in the Indo-Pacific</h2>
+<p>Investigates great-power competition, maritime flashpoints, nuclear deterrence doctrines, and regional security architectures across the Indo-Pacific corridor.</p>
+<p>Hegemonic Rivalry and US-China Strategic Competition: <a href="https://books.google.com/books?isbn=9780231180429" target="_blank" rel="noopener noreferrer">By More Than Providence: Grand Strategy and American Power in the Asia Pacific Since 1783 (Michael J. Green/Columbia University Press)</a> - Traces the historical evolution of US grand strategy and balance-of-power diplomacy across East Asia since the founding era.</p>
+<p>Hegemonic Rivalry and US-China Strategic Competition: <a href="https://ocw.mit.edu/courses/17-407-chinese-foreign-policy-international-relations-and-strategy-spring-2009/" target="_blank" rel="noopener noreferrer">Chinese Foreign Policy: International Relations and Strategy (MIT OpenCourseWare/M. Taylor Fravel)</a> - Upper-level university syllabus and analytical project frameworks examining Chinese deterrence, territorial disputes, and grand strategy.</p>
+<p>Maritime Security and Contested Sovereignty in the South China Sea: <a href="https://books.google.com/books?isbn=9780300216943" target="_blank" rel="noopener noreferrer">The South China Sea: The Struggle for Power in Asia (Bill Hayton/Yale University Press)</a> - Investigates the historical claims, international law of the sea (UNCLOS), resource competition, and naval rivalries in the South China Sea.</p>
+<p>Regional Security Architectures and ASEAN Centrality: <a href="https://books.google.com/books?isbn=9780801477362" target="_blank" rel="noopener noreferrer">The Making of Southeast Asia: International Relations of a Region (Amitav Acharya/Cornell University Press)</a> - Provides a foundational constructivist analysis of regional identity, norm localization, and the institutional dynamics of ASEAN diplomacy.</p>
+<p>Nuclear Deterrence and Strategic Postures in Asia: <a href="https://books.google.com/books?isbn=9780691159836" target="_blank" rel="noopener noreferrer">Nuclear Strategy in the Modern Era: Regional Powers and International Conflict (Vipin Narang/Princeton University Press)</a> - Unpacks the distinct nuclear postures—catalytic, assured retaliation, and asymmetric escalation—governing strategic stability across China, India, and Pakistan.</p>
+<p>Cross-Strait Geopolitics and Taiwan's Security: <a href="https://books.google.com/books?isbn=9781442204799" target="_blank" rel="noopener noreferrer">Why Taiwan Matters: Small Island, Global Powerhouse (Shelley Rigger/Rowman &amp; Littlefield)</a> - Analyzes Taiwan's democratic development, global semiconductor centrality, and asymmetric deterrence options amid rising cross-strait tensions.</p>
+<h2 id="comparative-political-economy-and-state-transformations">Comparative Political Economy and State Transformations</h2>
+<p>Analyzes developmental state models, industrial policies, state capitalism, agrarian shifts, and infrastructure statecraft across Asia.</p>
+<p>The East Asian Developmental State Model: <a href="https://books.google.com/books?isbn=9780691117294" target="_blank" rel="noopener noreferrer">Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization (Robert Wade/Princeton University Press)</a> - Seminal theoretical text explaining how state-guided investment, bureaucratic discipline, and industrial targeting shaped East Asian late industrialization.</p>
+<p>State Capitalism and China's Political Economy: <a href="https://books.google.com/books?isbn=9781108478601" target="_blank" rel="noopener noreferrer">China's Gilded Age: The Paradox of Economic Boom and Vast Corruption (Yuen Yuen Ang/Cambridge University Press)</a> - Examines the political economy of access money, local state corporatism, and regulatory risk under China's market-Leninist growth model.</p>
+<p>Agrarian Transitions and Critical Land Politics: <a href="https://books.google.com/books?isbn=9789971695415" target="_blank" rel="noopener noreferrer">Powers of Exclusion: Land Dilemmas in Southeast Asia (Derek Hall, Philip Hirsch, &amp; Tania Murray Li/NUS Press)</a> - Investigates how state regulation, market forces, force, and legitimation dispossess smallholder farmers and transform agrarian landscapes across Southeast Asia.</p>
+<p>Infrastructure Statecraft and Geo-Economic Connectivity: <a href="https://books.google.com/books?isbn=9780520372993" target="_blank" rel="noopener noreferrer">Rivers of Iron: Railroads and Chinese Power in Southeast Asia (David M. Lampton, Selina Ho, &amp; Cheng-Chwee Kuik/University of California Press)</a> - Details how mega-railway infrastructure projects are negotiated, contested, and leveraged by Southeast Asian nations balancing Chinese influence.</p>
+<p>Authoritarian Resilience and Regime Durability: <a href="https://books.google.com/books?isbn=9780521165457" target="_blank" rel="noopener noreferrer">Ordering Power: Contentious Politics and Authoritarian Leviathans in Southeast Asia (Dan Slater/Cambridge University Press)</a> - Develops a historical-institutionalist theory showing how elite protection pacts formed against mass unrest fostered durable authoritarian regimes in Southeast Asia.</p>
+<h2 id="critical-asian-historiography-decolonial-methodologies-and-subalternity">Critical Asian Historiography, Decolonial Methodologies, and Subalternity</h2>
+<p>Explores Subaltern Studies, borderland spatialities, "Asia as Method," and critical approaches to knowledge production.</p>
+<p>Subaltern Studies and Postcolonial Historiographical Critique: <a href="https://books.google.com/books?isbn=9780691130019" target="_blank" rel="noopener noreferrer">Provincializing Europe: Postcolonial Thought and Historical Difference (Dipesh Chakrabarty/Princeton University Press)</a> - Landmark theoretical critique demonstrating how modern historical scholarship universalizes European conceptual categories and how non-Western modernities must be rethought.</p>
+<p>"Asia as Method" and Decolonial Cultural Studies: <a href="https://books.google.com/books?isbn=9780822346760" target="_blank" rel="noopener noreferrer">Asia as Method: Toward Deimperialization (Kuan-Hsing Chen/Duke University Press)</a> - Proposes using Asian societies as mutual reference points for theory-building rather than relying solely on Western intellectual frameworks.</p>
+<p>Zomia and Non-State Frontier Spatialities: <a href="https://books.google.com/books?isbn=9780300156522" target="_blank" rel="noopener noreferrer">The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia (James C. Scott/Yale University Press)</a> - Theorizes upland Asia as an intentional refuge from lowland state-making, taxation, and conscription.</p>
+<p>Afro-Asian Solidarity, Bandung, and Non-Aligned Internationalism: <a href="https://doi.org/10.1017/9781316414880" target="_blank" rel="noopener noreferrer">Bandung, Global History, and International Law: Critical Pasts and Pending Futures (Luis Eslava, Michael Fakhri, &amp; Vasuki Nesiah, eds./Cambridge University Press)</a> - Open-access volume reinterpreting the 1955 Bandung Conference, postcolonial sovereignty, and Third World legal and political projects.</p>
+<h2 id="religion-secularism-and-identity-politics-in-modern-asia">Religion, Secularism, and Identity Politics in Modern Asia</h2>
+<p>Examines modern religious nationalisms, state-religion institutional boundaries, caste assertion, and politicized spiritual movements.</p>
+<p>Majoritarianism and Hindu Nationalism in South Asia: <a href="https://books.google.com/books?isbn=9780190078171" target="_blank" rel="noopener noreferrer">Majoritarian State: How Hindu Nationalism Is Changing India (Angana P. Chatterji, Thomas Blom Hansen, &amp; Christophe Jaffrelot, eds./Oxford University Press)</a> - Comprehensive volume analyzing the ideological shifts, legal restructuring, and statecraft underpinning the rise of Hindu majoritarianism.</p>
+<p>Theravada Monastic Nationalism and State Violence: <a href="https://books.google.com/books?isbn=9780195394849" target="_blank" rel="noopener noreferrer">Buddhist Warfare (Michael Jerryson &amp; Mark Juergensmeyer, eds./Oxford University Press)</a> - Interrogates the relationship between Buddhist doctrine, monastic political mobilization, and state-sanctioned violence across South and Southeast Asia.</p>
+<p>State Regulation of Religion in Modern China: <a href="https://books.google.com/books?isbn=9780226304168" target="_blank" rel="noopener noreferrer">The Religious Question in Modern China (Vincent Goossaert &amp; David A. Palmer/University of Chicago Press)</a> - Traces how Chinese regimes from the late Qing to the contemporary Communist state have categorized, suppressed, and co-opted religious traditions.</p>
+<p>Political Islam and Democratization in Southeast Asia: <a href="https://books.google.com/books?isbn=9780691050478" target="_blank" rel="noopener noreferrer">Civil Islam: Muslims and Democratization in Indonesia (Robert W. Hefner/Princeton University Press)</a> - Demonstrates how Islamic civic organizations, intellectuals, and piety movements shaped public democracy and pluralism in modern Indonesia.</p>
+<p>Caste Annihilation and Dalit Radical Thought: <a href="https://books.google.com/books?isbn=9781781688311" target="_blank" rel="noopener noreferrer">Annihilation of Caste: The Annotated Critical Edition (B. R. Ambedkar/Verso)</a> - Canonical philosophical text analyzing the structural violence of the caste hierarchy and outlining the intellectual foundations of Dalit liberation.</p>
+<h2 id="environmental-humanities-hydropolitics-and-climate-governance">Environmental Humanities, Hydropolitics, and Climate Governance</h2>
+<p>Interrogates transboundary river basins, monsoon ecologies, critical mineral extraction, and atmospheric governance across Asia.</p>
+<p>Transboundary Hydropolitics in Asian River Basins: <a href="https://books.google.com/books?isbn=9780465097722" target="_blank" rel="noopener noreferrer">Unruly Waters: How Mountain Rivers and Monsoons Have Shaped South Asia's History (Sunil Amrith/Basic Books)</a> - Examines the interconnected history of monsoon water systems, state engineering projects, and transboundary water contestation across South and Southeast Asia.</p>
+<p>Monsoon Ecologies and Planetary Climate Crisis: <a href="https://books.google.com/books?isbn=9780226323176" target="_blank" rel="noopener noreferrer">The Great Derangement: Climate Change and the Unthinkable (Amitav Ghosh/University of Chicago Press)</a> - Explores the historical, cultural, and political failures to confront accelerating ecological vulnerability across Asian deltaic coastlines.</p>
+<p>Extractive Frontiers and Resource Colonization: <a href="https://books.google.com/books?isbn=9780195640755" target="_blank" rel="noopener noreferrer">Nature, Culture, Imperialism: Essays on the Environmental History of South Asia (David Arnold &amp; Ramachandra Guha, eds./Oxford University Press)</a> - Landmark collection investigating colonial ecological disruption, forest enclosure, and peasant resource struggles in South Asia.</p>
+<p>Megacity Urbanism and Critical Urban Ecologies: <a href="https://books.google.com/books?isbn=9781405192767" target="_blank" rel="noopener noreferrer">Worlding Cities: Asian Experiments and the Art of Being Global (Ananya Roy &amp; Aihwa Ong, eds./Wiley-Blackwell)</a> - Investigates speculative urbanism, transboundary ecological footprints, and social inequality across emerging Asian mega-regions.</p>
+    </article>
+  </main>
 
 </body>
 </html>

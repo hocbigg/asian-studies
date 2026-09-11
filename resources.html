@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+
+  <title>Resources</title>
+  <meta name="description" content="A lightweight static page by hocbigg.">
+  <meta name="author" content="hocbigg">
+
+  <link rel="canonical" href="https://hocbigg.github.io/asian-studies/resources.html">
+  <meta property="og:title" content="Resources">
+  <meta property="og:description" content="A lightweight static page by hocbigg.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://hocbigg.github.io/asian-studies/resources.html">
+  <link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
+
+  <style>
+:root {
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --muted: #595959;
+  --border: #e0e0e0;
+  --th-bg: #f6f8fa;
+  --code-bg: #f4f4f4;
+  --link: #0969da;
+  --focus-ring: #0969da;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #8b949e;
+    --border: #30363d;
+    --th-bg: #161b22;
+    --code-bg: #161b22;
+    --link: #58a6ff;
+    --focus-ring: #58a6ff;
+  }
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 1.5rem auto;
+  max-width: min(60rem, 92vw);
+  padding: 0 0.75rem 3.5rem;
+  background-color: var(--bg);
+  color: var(--fg);
+  font: 1.15rem/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  word-wrap: break-word;
+}
+
+.site-header {
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0.5rem 1.25rem;
+  font-size: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+nav a:hover, 
+nav a:focus-visible {
+  color: var(--fg);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+nav .nav-brand {
+  color: var(--fg);
+  font-weight: 700;
+  margin-right: 0.5rem;
+}
+
+.skip-link {
+  position: absolute;
+  top: -9999px;
+  left: 1rem;
+  background: var(--fg);
+  color: var(--bg);
+  padding: 0.5rem 1rem;
+  z-index: 100;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 4px;
+}
+.skip-link:focus {
+  top: 1rem;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 3px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  margin-top: 1.75em;
+  margin-bottom: 0.5em;
+  color: var(--fg);
+}
+h1 { font-size: 1.85rem; margin-top: 0.5em; }
+h2 { font-size: 1.45rem; }
+h3 { font-size: 1.2rem; }
+
+p, ul, ol, blockquote, table {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+}
+
+li > ul,
+li > ol {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+}
+
+li {
+  margin-bottom: 0.25rem;
+}
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.page-header img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 1rem;
+  display: block;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.875em;
+  background-color: var(--code-bg);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+}
+pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+  tab-size: 2;
+}
+pre code {
+  background: transparent;
+  padding: 0;
+  border: none;
+  font-size: 0.9rem;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+th, td {
+  border: 1px solid var(--border);
+  padding: 0.6rem 0.75rem;
+  vertical-align: top;
+}
+th {
+  background-color: var(--th-bg);
+  font-weight: 600;
+}
+
+blockquote {
+  border-left: 4px solid var(--border);
+  padding-left: 1rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+@media print {
+  body {
+    max-width: none;
+    color: #000;
+    background: #fff;
+  }
+  .skip-link, nav {
+    display: none;
+  }
+}
+  </style>
+</head>
+<body>
+
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <header class="site-header">
+    <nav aria-label="Main Navigation">
+    <ul>
+      <li><a href="https://hocbigg.github.io/" class="nav-brand">Hocbigg</a></li>
+      <li><a href="/asian-studies/">Asian Studies</a></li>
+      <li><a href="/asian-studies/advanced_topics.html">Advanced Topics</a></li>
+      <li><a href="/asian-studies/extras/readings.html">Extra Readings</a></li>
+      <li><a href="/asian-studies/extras/courses.html">Extra Courses</a></li>
+      <li><a href="/asian-studies/resources.html">Resources</a></li>
+      <li><a href="https://github.com/hocbigg/" target="_blank" rel="noopener noreferrer">GitHub<span class="sr-only"> (opens in new tab)</span></a></li>
+    </ul>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    <article>
+
+<h1 id="resources">Resources</h1>
+<h2 id="primary-text-archival-repositories">Primary Text &amp; Archival Repositories</h2>
+<p>Digital collections providing open access to digitized manuscripts, imperial records, pre-modern corpora, and declassified diplomatic documents across Asia.</p>
+<ul>
+<li><a href="https://ctext.org/" target="_blank" rel="noopener noreferrer">Chinese Text Project (Donald Sturgeon)</a> - Open-access digital library and concordance engine of pre-modern Chinese texts spanning antiquity through the Qing dynasty, featuring character lookups and parallel English translations.</li>
+<li><a href="https://db.history.go.kr/" target="_blank" rel="noopener noreferrer">Korean History Database (National Institute of Korean History)</a> - Comprehensive public repository of digitized primary documents, royal annals, diplomatic records, and modern periodicals covering ancient through contemporary Korean history.</li>
+<li><a href="https://dl.ndl.go.jp/en/" target="_blank" rel="noopener noreferrer">National Diet Library Digital Collections (National Diet Library, Japan)</a> - Extensive searchable archive of digitized rare books, historical periodicals, public records, and out-of-print materials preserved by Japan's national library.</li>
+<li><a href="https://www.jstor.org/site/saoa/" target="_blank" rel="noopener noreferrer">South Asia Open Archives (Center for Research Libraries &amp; JSTOR)</a> - Freely accessible repository containing over one million pages of historical South Asian periodicals, colonial administrative records, and cultural publications across dozens of regional languages.</li>
+<li><a href="https://sea.lib.niu.edu/" target="_blank" rel="noopener noreferrer">Southeast Asia Digital Library (Northern Illinois University &amp; CORMOSEA)</a> - Curated digital clearinghouse aggregating rare manuscripts, historical photographs, oral histories, and cultural records from mainland and maritime Southeast Asia.</li>
+<li><a href="https://idp.bl.uk/" target="_blank" rel="noopener noreferrer">International Dunhuang Programme (British Library)</a> - Global collaborative database offering high-resolution imagery and scholarly cataloging of over 100,000 manuscripts, paintings, and textiles recovered from Dunhuang and Eastern Silk Road sites.</li>
+<li><a href="https://digitalarchive.wilsoncenter.org/" target="_blank" rel="noopener noreferrer">Wilson Center Digital Archive: International History Declassified (Woodrow Wilson International Center for Scholars)</a> - Searchable archive of translated, declassified diplomatic cables and intelligence reports detailing Cold War Asia, the Korean War, Sino-Soviet relations, and Chinese foreign policy.</li>
+</ul>
+<h2 id="historical-gis-cartographic-databases">Historical GIS &amp; Cartographic Databases</h2>
+<p>Spatial research engines, historical boundary datasets, and map archives used to trace territorial changes, trade corridors, and regional geography.</p>
+<ul>
+<li><a href="https://chgis.fas.harvard.edu/" target="_blank" rel="noopener noreferrer">China Historical GIS (Harvard University &amp; Fudan University)</a> - Authoritative spatial database tracking changes in administrative units, county seats, and jurisdictional borders across Chinese history from 221 BCE to 1911 CE.</li>
+<li><a href="https://maps.lib.utexas.edu/maps/asia.html" target="_blank" rel="noopener noreferrer">Perry-Castañeda Library Map Collection: Asia (University of Texas at Austin)</a> - Extensive digital repository of public-domain historical, topographic, and geopolitical maps of Asian nations and subregions from the 19th century onward.</li>
+<li><a href="http://dsr.nii.ac.jp/" target="_blank" rel="noopener noreferrer">Digital Silk Road Project (National Institute of Informatics, Japan)</a> - Digital humanities platform providing georeferenced historical maps, archaeological ruin coordinates, and digitized expedition travelogues along Eurasian trade routes.</li>
+</ul>
+<h2 id="biographical-lexicographical-research-tools">Biographical, Lexicographical &amp; Research Tools</h2>
+<p>Scholarly reference lexicons, classical terminology databases, and prosopographical directories for researching Asian historical actors and canonical terms.</p>
+<ul>
+<li><a href="https://cbdb.fas.harvard.edu/" target="_blank" rel="noopener noreferrer">China Biographical Database (Harvard University, Academia Sinica, &amp; Peking University)</a> - Searchable relational database recording biographical details, kinship networks, and bureaucratic postings for over 500,000 historical Chinese figures.</li>
+<li><a href="https://dsal.uchicago.edu/dictionaries/" target="_blank" rel="noopener noreferrer">Digital Dictionaries of South Asia (University of Chicago)</a> - Searchable digital portal offering open access to classic monolingual and bilingual dictionaries across more than twenty South Asian languages.</li>
+<li><a href="http://www.buddhism-dict.net/ddb/" target="_blank" rel="noopener noreferrer">Digital Dictionary of Buddhism (Charles Muller / University of Tokyo)</a> - Scholarly multilingual lexicon covering Buddhist doctrinal terminology, canonical titles, and monastic figures across Sanskrit, Chinese, Tibetan, and Japanese, accessible via free guest login.</li>
+</ul>
+<h2 id="art-archaeology-material-culture-collections">Art, Archaeology &amp; Material Culture Collections</h2>
+<p>Open museum collections, archaeological catalogs, and high-resolution galleries documenting visual culture and sacred material traditions across Asian civilizations.</p>
+<ul>
+<li><a href="https://asia.si.edu/" target="_blank" rel="noopener noreferrer">National Museum of Asian Art Collections (Smithsonian Institution)</a> - Searchable open-access catalog containing high-resolution photographs and curatorial entries for thousands of South, Southeast, and East Asian artworks and archaeological finds.</li>
+<li><a href="https://emuseum.nich.go.jp/" target="_blank" rel="noopener noreferrer">e-Museum: National Treasures &amp; Important Cultural Properties (National Institutes for Cultural Heritage, Japan)</a> - Multilingual high-definition database showcasing designated Japanese national treasures, ancient manuscripts, screens, and Buddhist sculpture across Japan's four national museums.</li>
+</ul>
+<h2 id="contemporary-policy-field-analysis-scholarly-networks">Contemporary Policy, Field Analysis &amp; Scholarly Networks</h2>
+<p>Open-access platforms, research blogs, and academic networks that provide peer-reviewed commentary and professional discussion on Asian humanities and current affairs.</p>
+<ul>
+<li><a href="https://eastasiaforum.org/" target="_blank" rel="noopener noreferrer">East Asia Forum (Crawford School of Public Policy, Australian National University)</a> - Open-access platform publishing daily research articles and quarterly thematic issues on economics, politics, and governance across the Asia-Pacific.</li>
+<li><a href="https://www.newmandala.org/" target="_blank" rel="noopener noreferrer">New Mandala (Coral Bell School of Asia Pacific Affairs, Australian National University)</a> - Academic field-analysis site offering critical commentary, political reporting, and social analysis focused specifically on Southeast Asian societies.</li>
+<li><a href="https://networks.h-net.org/h-asia" target="_blank" rel="noopener noreferrer">H-Asia (H-Net Discussion Network)</a> - Moderated scholarly network featuring academic book reviews, conference announcements, research inquiries, and debates across Asian history and humanities.</li>
+</ul>
+    </article>
+  </main>
+
+</body>
+</html>

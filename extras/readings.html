@@ -1,107 +1,427 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light dark">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
 
-<title>Extra Reading</title>
-<link rel="stylesheet" href="/asian-studies/style.css">
-<meta name="description" content="">
+  <title>Great Readings in Asian Studies</title>
+  <meta name="description" content="A lightweight static page by hocbigg.">
+  <meta name="author" content="hocbigg">
 
-<link rel="canonical" href="https://hocbigg.github.io/asian-studies/">
+  <link rel="canonical" href="https://hocbigg.github.io/asian-studies/extras/readings.html">
+  <meta property="og:title" content="Great Readings in Asian Studies">
+  <meta property="og:description" content="A lightweight static page by hocbigg.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://hocbigg.github.io/asian-studies/extras/readings.html">
+  <link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
 
-<meta property="og:title" content="Extra Reading">
-<meta property="og:description" content="">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://hocbigg.github.io/asian-studies/">
-<meta name="author" content="hocbigg">
-<link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
+  <style>
+:root {
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --muted: #595959;
+  --border: #e0e0e0;
+  --th-bg: #f6f8fa;
+  --code-bg: #f4f4f4;
+  --link: #0969da;
+  --focus-ring: #0969da;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #8b949e;
+    --border: #30363d;
+    --th-bg: #161b22;
+    --code-bg: #161b22;
+    --link: #58a6ff;
+    --focus-ring: #58a6ff;
+  }
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 1.5rem auto;
+  max-width: min(60rem, 92vw);
+  padding: 0 0.75rem 3.5rem;
+  background-color: var(--bg);
+  color: var(--fg);
+  font: 1.15rem/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  word-wrap: break-word;
+}
+
+.site-header {
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0.5rem 1.25rem;
+  font-size: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+nav a:hover, 
+nav a:focus-visible {
+  color: var(--fg);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+nav .nav-brand {
+  color: var(--fg);
+  font-weight: 700;
+  margin-right: 0.5rem;
+}
+
+.skip-link {
+  position: absolute;
+  top: -9999px;
+  left: 1rem;
+  background: var(--fg);
+  color: var(--bg);
+  padding: 0.5rem 1rem;
+  z-index: 100;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 4px;
+}
+.skip-link:focus {
+  top: 1rem;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 3px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  margin-top: 1.75em;
+  margin-bottom: 0.5em;
+  color: var(--fg);
+}
+h1 { font-size: 1.85rem; margin-top: 0.5em; }
+h2 { font-size: 1.45rem; }
+h3 { font-size: 1.2rem; }
+
+p, ul, ol, blockquote, table {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+}
+
+li > ul,
+li > ol {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+}
+
+li {
+  margin-bottom: 0.25rem;
+}
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.page-header img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 1rem;
+  display: block;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.875em;
+  background-color: var(--code-bg);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+}
+pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+  tab-size: 2;
+}
+pre code {
+  background: transparent;
+  padding: 0;
+  border: none;
+  font-size: 0.9rem;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+th, td {
+  border: 1px solid var(--border);
+  padding: 0.6rem 0.75rem;
+  vertical-align: top;
+}
+th {
+  background-color: var(--th-bg);
+  font-weight: 600;
+}
+
+blockquote {
+  border-left: 4px solid var(--border);
+  padding-left: 1rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+@media print {
+  body {
+    max-width: none;
+    color: #000;
+    background: #fff;
+  }
+  .skip-link, nav {
+    display: none;
+  }
+}
+  </style>
 </head>
-
 <body>
 
-<nav>
-<a href="/">Hocbigg</a>
-<a href="/asian-studies/">Asian-Studies</a>
-<a href="/asian-studies/advanced_topics.html">Advanced Topics</a>
-<a href="/asian-studies/extras/courses.html">Extra Courses</a>
-<a href="/asian-studies/extras/readings.html">Extra Reading</a>
-<a href="https://github.com/hocbigg/asian-studies/" target="_blank">View on Github</a>
-</nav>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
 
-<main>
-<article>
+  <header class="site-header">
+    <nav aria-label="Main Navigation">
+    <ul>
+      <li><a href="https://hocbigg.github.io/" class="nav-brand">Hocbigg</a></li>
+      <li><a href="/asian-studies/">Asian Studies</a></li>
+      <li><a href="/asian-studies/advanced_topics.html">Advanced Topics</a></li>
+      <li><a href="/asian-studies/extras/readings.html">Extra Readings</a></li>
+      <li><a href="/asian-studies/extras/courses.html">Extra Courses</a></li>
+      <li><a href="/asian-studies/resources.html">Resources</a></li>
+      <li><a href="https://github.com/hocbigg/" target="_blank" rel="noopener noreferrer">GitHub<span class="sr-only"> (opens in new tab)</span></a></li>
+    </ul>
+    </nav>
+  </header>
 
-<h1 id="extra-reading">Extra Reading</h1>
-<p>This document consists of great books or articles on Asian Studies.
-Some are here because there is a course covering the same material;
-some are just great books that you should read at some point in your career.</p>
-<p>Once you have made it through most of the curriculum, knowing whether a book is worth your time will become easier.
-Or, if you are struggling in one of the courses, perhaps reading a book on the subject will help.</p>
-<h2 id="east-asia">East Asia</h2>
-<table>
+  <main id="main-content">
+    <article>
+
+<h1 id="great-readings-in-asian-studies">Great Readings in Asian Studies</h1>
+<p>This curated bibliography brings together transformative monographs, seminal essays, paradigm-shifting empirical studies, and foundational cultural texts in Asian Studies. Rather than introductory surveys, these works showcase how scholars, philosophers, and writers have formulated theoretical frameworks, unsettled Eurocentric assumptions, and analyzed the social, political, and ecological landscapes of Asia.</p>
+<h2 id="foundational-epistemologies-historiography-decolonial-theory">Foundational Epistemologies, Historiography &amp; Decolonial Theory</h2>
+<div class="table-wrapper" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>Name</th>
-<th>Author(s)</th>
+<th style="text-align: left;">Title</th>
+<th style="text-align: left;">Author(s)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Nothing-Envy-Ordinary-Lives-North/dp/0385523912">Nothing to Envy: Ordinary Lives in North Korea</a></td>
-<td>Barbara Demick</td>
+<td style="text-align: left;"><a href="https://archive.org/details/orientalism0000said" target="_blank" rel="noopener noreferrer"><em>Orientalism</em></a></td>
+<td style="text-align: left;">Edward W. Said</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Wild-Swans-Three-Daughters-China/dp/0743246985">Wild Swans: Three Daughters of China</a></td>
-<td>Jung Chang</td>
+<td style="text-align: left;"><a href="https://archive.org/details/provincializinge0000chak" target="_blank" rel="noopener noreferrer"><em>Provincializing Europe: Postcolonial Thought and Historical Difference</em></a></td>
+<td style="text-align: left;">Dipesh Chakrabarty</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Rape-Nanking-Iris-Chang/dp/0465068367">The Rape of Nanking</a></td>
-<td>Iris Chang</td>
+<td style="text-align: left;"><a href="https://archive.org/details/selectedsubalter0000unse" target="_blank" rel="noopener noreferrer"><em>Selected Subaltern Studies</em></a></td>
+<td style="text-align: left;">Ranajit Guha &amp; Gayatri Chakravorty Spivak (eds.)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://archive.org/details/canthesubalterns0000unse" target="_blank" rel="noopener noreferrer"><em>Can the Subaltern Speak? Reflections on the History of an Idea</em></a></td>
+<td style="text-align: left;">Gayatri Chakravorty Spivak (ed. Rosalind C. Morris)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://books.google.com/books?isbn=9780822346760" target="_blank" rel="noopener noreferrer"><em>Asia as Method: Toward Deimperialization</em></a></td>
+<td style="text-align: left;">Kuan-Hsing Chen</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://books.google.com/books?isbn=9780226167220" target="_blank" rel="noopener noreferrer"><em>Rescuing History from the Nation: Questioning Narratives of Modern China</em></a></td>
+<td style="text-align: left;">Prasenjit Duara</td>
 </tr>
 </tbody>
-</table>
-<h2 id="south-asia">South Asia</h2>
-<table>
+</table></div>
+<h2 id="state-formation-political-economy-everyday-power">State Formation, Political Economy &amp; Everyday Power</h2>
+<div class="table-wrapper" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>Name</th>
-<th>Author(s)</th>
+<th style="text-align: left;">Title</th>
+<th style="text-align: left;">Author(s)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/India-After-Gandhi-History-Democracy/dp/0060198818">India After Gandhi: The History of the World's Largest Democracy</a></td>
-<td>Ramachandra Guha</td>
+<td style="text-align: left;"><a href="https://archive.org/details/imaginedcommunit0000ande" target="_blank" rel="noopener noreferrer"><em>Imagined Communities: Reflections on the Origin and Spread of Nationalism</em></a></td>
+<td style="text-align: left;">Benedict Anderson</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Wonder-That-Was-India-Survey/dp/0330439096">The Wonder That Was India</a></td>
-<td>A.L. Basham</td>
+<td style="text-align: left;"><a href="https://archive.org/details/negaratheatresta00geer" target="_blank" rel="noopener noreferrer"><em>Negara: The Theatre State in Nineteenth-Century Bali</em></a></td>
+<td style="text-align: left;">Clifford Geertz</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://archive.org/details/weaponsofweakeve0000scot" target="_blank" rel="noopener noreferrer"><em>Weapons of the Weak: Everyday Forms of Peasant Resistance</em></a></td>
+<td style="text-align: left;">James C. Scott</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://books.google.com/books?isbn=9780804712064" target="_blank" rel="noopener noreferrer"><em>MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925–1975</em></a></td>
+<td style="text-align: left;">Chalmers Johnson</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://books.google.com/books?isbn=9780691117294" target="_blank" rel="noopener noreferrer"><em>Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization</em></a></td>
+<td style="text-align: left;">Robert Wade</td>
 </tr>
 </tbody>
-</table>
-<h2 id="generalcomparative">General/Comparative</h2>
-<table>
+</table></div>
+<h2 id="social-structure-caste-emancipatory-thought">Social Structure, Caste &amp; Emancipatory Thought</h2>
+<div class="table-wrapper" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>Name</th>
-<th>Author(s)</th>
+<th style="text-align: left;">Title</th>
+<th style="text-align: left;">Author(s)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Sources-Indian-Tradition-Introduction-Classical/dp/0231066511">Sources of Indian Tradition (Vol. 1 &amp; 2)</a></td>
-<td>Edited by Wm. Theodore de Bary et al.</td>
+<td style="text-align: left;"><a href="https://ccnmtl.columbia.edu/projects/mmt/ambedkar/" target="_blank" rel="noopener noreferrer"><em>Annihilation of Caste</em></a></td>
+<td style="text-align: left;">B. R. Ambedkar</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.amazon.com/Sources-Japanese-Tradition-Introduction-Second/dp/0231121393">Sources of Japanese Tradition (Vol. 1 &amp; 2)</a></td>
-<td>Edited by Wm. Theodore de Bary et al.</td>
+<td style="text-align: left;"><a href="https://archive.org/details/fromsoilfoundati0000feix" target="_blank" rel="noopener noreferrer"><em>From the Soil: The Foundations of Chinese Society (Xiangtu Zhongguo)</em></a></td>
+<td style="text-align: left;">Fei Xiaotong</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://www.gutenberg.org/ebooks/40766" target="_blank" rel="noopener noreferrer"><em>Nationalism</em></a></td>
+<td style="text-align: left;">Rabindranath Tagore</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://books.google.com/books?isbn=9780674724617" target="_blank" rel="noopener noreferrer"><em>Underground Asia: Global Revolutionaries and the Assault on Empire</em></a></td>
+<td style="text-align: left;">Tim Harper</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://books.google.com/books?isbn=9780822332701" target="_blank" rel="noopener noreferrer"><em>The Question of Women in Chinese Feminism</em></a></td>
+<td style="text-align: left;">Tani E. Barlow</td>
 </tr>
 </tbody>
-</table>
-</article>
-</main>
+</table></div>
+<h2 id="cultural-masterworks-aesthetics-narrative-worlds">Cultural Masterworks, Aesthetics &amp; Narrative Worlds</h2>
+<div class="table-wrapper" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th style="text-align: left;">Title</th>
+<th style="text-align: left;">Author(s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a href="https://www.gutenberg.org/ebooks/40150" target="_blank" rel="noopener noreferrer"><em>The Tale of Genji</em></a></td>
+<td style="text-align: left;">Murasaki Shikibu (trans. Arthur Waley)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://www.gutenberg.org/ebooks/9603" target="_blank" rel="noopener noreferrer"><em>The Story of the Stone (Dream of the Red Chamber)</em></a></td>
+<td style="text-align: left;">Cao Xueqin (trans. H. Bencraft Joly)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://www.gutenberg.org/ebooks/1665" target="_blank" rel="noopener noreferrer"><em>Abhijnanasakuntalam (The Recognition of Sakuntala)</em></a></td>
+<td style="text-align: left;">Kalidasa (trans. Arthur W. Ryder)</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://archive.org/details/selectedstorieso0000luxu" target="_blank" rel="noopener noreferrer"><em>Selected Stories of Lu Hsun (including The True Story of Ah Q and Call to Arms)</em></a></td>
+<td style="text-align: left;">Lu Xun</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://archive.org/details/thisearthofmanki0000toer_a1h2" target="_blank" rel="noopener noreferrer"><em>This Earth of Mankind</em></a></td>
+<td style="text-align: left;">Pramoedya Ananta Toer (trans. Max Lane)</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="maritime-networks-ecology-transboundary-worlds">Maritime Networks, Ecology &amp; Transboundary Worlds</h2>
+<div class="table-wrapper" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th style="text-align: left;">Title</th>
+<th style="text-align: left;">Author(s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a href="https://archive.org/details/beforeeuropeanhe0000abul" target="_blank" rel="noopener noreferrer"><em>Before European Hegemony: The World System A.D. 1250–1350</em></a></td>
+<td style="text-align: left;">Janet L. Abu-Lughod</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://archive.org/details/tradecivilisatio0000chau" target="_blank" rel="noopener noreferrer"><em>Trade and Civilisation in the Indian Ocean: An Economic History from the Rise of Islam to 1750</em></a></td>
+<td style="text-align: left;">K. N. Chaudhuri</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://archive.org/details/southeastasiaina0002reid" target="_blank" rel="noopener noreferrer"><em>Southeast Asia in the Age of Commerce, 1450–1680</em></a></td>
+<td style="text-align: left;">Anthony Reid</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://books.google.com/books?isbn=9780674281455" target="_blank" rel="noopener noreferrer"><em>Crossing the Bay of Bengal: The Furies of Nature and the Fortunes of Migrants</em></a></td>
+<td style="text-align: left;">Sunil Amrith</td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://books.google.com/books?isbn=9780226323176" target="_blank" rel="noopener noreferrer"><em>The Great Derangement: Climate Change and the Unthinkable</em></a></td>
+<td style="text-align: left;">Amitav Ghosh</td>
+</tr>
+</tbody>
+</table></div>
+    </article>
+  </main>
 
 </body>
 </html>

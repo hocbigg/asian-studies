@@ -1,212 +1,352 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light dark">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
 
-<title>Hocbigg - Asian Studies</title>
-<link rel="stylesheet" href="/asian-studies/style.css">
-<meta name="description" content="Path to a free self-taught education in Asian Studies!">
+  <title>Hocbigg - Asian Studies</title>
+  <meta name="description" content="Path to a free self-taught education in Asian Studies!">
+  <meta name="author" content="hocbigg">
 
-<link rel="canonical" href="https://hocbigg.github.io/asian-studies/">
+  <link rel="canonical" href="https://hocbigg.github.io/asian-studies/">
+  <meta property="og:title" content="Hocbigg - Asian Studies">
+  <meta property="og:description" content="Path to a free self-taught education in Asian Studies!">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://hocbigg.github.io/asian-studies/">
+  <link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
 
-<meta property="og:title" content="Hocbigg - Asian Studies">
-<meta property="og:description" content="Path to a free self-taught education in Asian Studies!">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://hocbigg.github.io/asian-studies/">
-<meta name="author" content="hocbigg">
-<link rel="icon" href="https://hocbigg.github.io/images/favicon.ico">
+  <style>
+:root {
+  --bg: #ffffff;
+  --fg: #1a1a1a;
+  --muted: #595959;
+  --border: #e0e0e0;
+  --th-bg: #f6f8fa;
+  --code-bg: #f4f4f4;
+  --link: #0969da;
+  --focus-ring: #0969da;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0d1117;
+    --fg: #e6edf3;
+    --muted: #8b949e;
+    --border: #30363d;
+    --th-bg: #161b22;
+    --code-bg: #161b22;
+    --link: #58a6ff;
+    --focus-ring: #58a6ff;
+  }
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 1.5rem auto;
+  max-width: min(60rem, 92vw);
+  padding: 0 0.75rem 3.5rem;
+  background-color: var(--bg);
+  color: var(--fg);
+  font: 1.15rem/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  word-wrap: break-word;
+}
+
+.site-header {
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 1rem;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 0.5rem 1.25rem;
+  font-size: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+nav a:hover, 
+nav a:focus-visible {
+  color: var(--fg);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+nav .nav-brand {
+  color: var(--fg);
+  font-weight: 700;
+  margin-right: 0.5rem;
+}
+
+.skip-link {
+  position: absolute;
+  top: -9999px;
+  left: 1rem;
+  background: var(--fg);
+  color: var(--bg);
+  padding: 0.5rem 1rem;
+  z-index: 100;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 4px;
+}
+.skip-link:focus {
+  top: 1rem;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 3px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  margin-top: 1.75em;
+  margin-bottom: 0.5em;
+  color: var(--fg);
+}
+h1 { font-size: 1.85rem; margin-top: 0.5em; }
+h2 { font-size: 1.45rem; }
+h3 { font-size: 1.2rem; }
+
+p, ul, ol, blockquote, table {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+}
+
+li > ul,
+li > ol {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+}
+
+li {
+  margin-bottom: 0.25rem;
+}
+
+a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.page-header img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 1rem;
+  display: block;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.875em;
+  background-color: var(--code-bg);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+}
+pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+  tab-size: 2;
+}
+pre code {
+  background: transparent;
+  padding: 0;
+  border: none;
+  font-size: 0.9rem;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+th, td {
+  border: 1px solid var(--border);
+  padding: 0.6rem 0.75rem;
+  vertical-align: top;
+}
+th {
+  background-color: var(--th-bg);
+  font-weight: 600;
+}
+
+blockquote {
+  border-left: 4px solid var(--border);
+  padding-left: 1rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+@media print {
+  body {
+    max-width: none;
+    color: #000;
+    background: #fff;
+  }
+  .skip-link, nav {
+    display: none;
+  }
+}
+  </style>
 </head>
-
 <body>
 
-<nav>
-<a href="/">Hocbigg</a>
-<a href="/asian-studies/">Asian-Studies</a>
-<a href="/asian-studies/advanced_topics.html">Advanced Topics</a>
-<a href="/asian-studies/extras/courses.html">Extra Courses</a>
-<a href="/asian-studies/extras/readings.html">Extra Reading</a>
-<a href="https://github.com/hocbigg/asian-studies/" target="_blank">View on Github</a>
-</nav>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
 
-<main>
-<article>
+  <header class="site-header">
+    <nav aria-label="Main Navigation">
+    <ul>
+      <li><a href="https://hocbigg.github.io/" class="nav-brand">Hocbigg</a></li>
+      <li><a href="/asian-studies/">Asian Studies</a></li>
+      <li><a href="/asian-studies/advanced_topics.html">Advanced Topics</a></li>
+      <li><a href="/asian-studies/extras/readings.html">Extra Readings</a></li>
+      <li><a href="/asian-studies/extras/courses.html">Extra Courses</a></li>
+      <li><a href="/asian-studies/resources.html">Resources</a></li>
+      <li><a href="https://github.com/hocbigg/" target="_blank" rel="noopener noreferrer">GitHub<span class="sr-only"> (opens in new tab)</span></a></li>
+    </ul>
+    </nav>
+  </header>
 
+  <main id="main-content">
+    <article>
 <header class="page-header">
-  <img src="/images/logo.png" alt="">
+  <img src="/images/logo.png" alt="Hocbigg logo" width="120" height="120">
   <h1>Hocbigg - Asian Studies</h1>
 </header>
-
-<h1 id="contents">Contents</h1>
-<ul>
-<li><a href="#summary">Summary</a></li>
-<li><a href="#communities">Communities</a></li>
-<li><a href="#curriculum">Curriculum</a></li>
-<li><a href="#code-of-conduct">Code of conduct</a></li>
-</ul>
-<h1 id="summary">Summary</h1>
-<p>The Asian Studies curriculum is a complete education in Asian Studies using online materials. The program emphasizes interdisciplinary approaches, balancing history, culture, religion, philosophy, politics, and language proficiency.</p>
+<h2 id="summary">Summary</h2>
+<p>The Asian Studies curriculum is a complete education in Asian Studies using online materials.</p>
 <p>Asian Studies is inherently broad, covering East Asia (China, Japan, Korea), South Asia (India, Pakistan, Bangladesh, etc.), and Southeast Asia. Students should select a primary regional focus early (e.g., East Asia) while maintaining comparative exposure.</p>
 <p>Language study runs parallel throughout, aiming for intermediate proficiency in one Asian language (e.g., Chinese, Japanese, Hindi, or another relevant to the chosen region).</p>
-<h2 id="organization">Organization</h2>
-<p>This repository is organized into 2 main components:</p>
+<h2 id="communities">Communities</h2>
 <ul>
-<li><strong>Core Curriculum</strong> (this page): the foundational knowledge of the field;</li>
-<li><strong><a href="advanced_topics.html">Advanced Topics</a></strong>: focused study in specific areas;</li>
-</ul>
-<p><strong>Process:</strong> Learners may work through the curriculum independently or collaboratively, and either sequentially or selectively.</p>
-<ul>
-<li>For simplicity, courses in the Core Curriculum are ordered according to their prerequisites.</li>
-<li>The Core Curriculum provides a shared foundation and is intended to be completed in full.</li>
-<li>Advanced Topics are optional; learners are encouraged to select one area of focus and complete all courses within that topic.</li>
-</ul>
-<p>Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in <a href="extras/courses.html">extras/courses</a>, <a href="extras/readings.html">extras/readings</a>.</p>
-<p><strong><a href="/CONTRIBUTING.html">How to contribute</a></strong></p>
-<h1 id="communities">Communities</h1>
-<ul>
-<li>
-<p>Forums:</p>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://networks.h-net.org/h-asia">H-Asia (H-Net Discussion Network)</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://community.asianstudies.org/home">Association for Asian Studies Community Forum</a></li>
+<li>Forums:<ul>
+<li><a href="https://networks.h-net.org/h-asia" target="_blank" rel="noopener noreferrer">H-Asia (H-Net Discussion Network)</a></li>
+<li><a href="https://community.asianstudies.org/home" target="_blank" rel="noopener noreferrer">Association for Asian Studies Community Forum</a></li>
 </ul>
 </li>
-<li>
-<p>Subreddits:</p>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/r/AsianStudies/">r/AsianStudies</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/r/AskHistorians/">r/AskHistorians</a> (frequent high-quality threads on Asian history and culture)</li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/r/southeastasia/">r/southeastasia</a></li>
+<li>Subreddits:<ul>
+<li><a href="https://www.reddit.com/r/AsianStudies/" target="_blank" rel="noopener noreferrer">r/AsianStudies</a></li>
+<li><a href="https://www.reddit.com/r/AskHistorians/" target="_blank" rel="noopener noreferrer">r/AskHistorians</a> (frequent high-quality threads on Asian history and culture)</li>
+<li><a href="https://www.reddit.com/r/southeastasia/" target="_blank" rel="noopener noreferrer">r/southeastasia</a></li>
 </ul>
 </li>
-<li>You can also interact through <a target="_blank" rel="noopener noreferrer" href="https://github.com/hocbigg/asian-studies/issues">GitHub issues</a>. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more <a href="/CONTRIBUTING.html">here</a>.</li>
-<li>Join our Discord server (for discussions around this and other curricula): 
-  :  <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/KHqAv4Nvm5"><img alt="discord link" src="/assets/discord.png" /></a></li>
+<li>You can also interact through <a href="https://github.com/hocbigg/asian-studies/issues" target="_blank" rel="noopener noreferrer">GitHub issues</a>. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more <a href="/CONTRIBUTING.html">here</a>.</li>
 </ul>
-<h1 id="curriculum">Curriculum</h1>
-<ul>
-<li><a href="#pan-asian-foundations">Pan-Asian Foundations</a><ul>
-<li><a href="#geography-peoples-and-regions">Geography, Peoples, and Regions</a></li>
-<li><a href="#big-picture-asian-history">Big-Picture Asian History</a></li>
-<li><a href="#major-religious-traditions-of-asia">Major Religious Traditions of Asia</a></li>
-<li><a href="#language-foundations">Language Foundations</a></li>
-</ul>
-</li>
-<li><a href="#core-regional-histories">Core Regional Histories</a><ul>
-<li><a href="#east-asia-china-korea-japan">East Asia China, Korea, Japan</a></li>
-<li><a href="#south-asia-india-pakistan-bangladesh-sri-lanka">South Asia India, Pakistan, Bangladesh, Sri Lanka</a></li>
-<li><a href="#southeast-asia">Southeast Asia</a></li>
-</ul>
-</li>
-<li><a href="#asian-philosophical-traditions">Asian Philosophical Traditions</a><ul>
-<li><a href="#indian-traditions">Indian Traditions</a></li>
-<li><a href="#chinese-traditions">Chinese Traditions</a></li>
-<li><a href="#buddhist-worlds">Buddhist Worlds</a></li>
-</ul>
-</li>
-<li><a href="#asian-literatures--arts">Asian Literatures &amp; Arts</a><ul>
-<li><a href="#literary-traditions">Literary Traditions</a></li>
-<li><a href="#visual--performing-arts">Visual &amp; Performing Arts</a></li>
-</ul>
-</li>
-<li><a href="#modern-asia-society-politics-economy">Modern Asia: Society, Politics, Economy</a><ul>
-<li><a href="#colonialism--independence">Colonialism &amp; Independence</a></li>
-<li><a href="#politics--international-relations">Politics &amp; International Relations</a></li>
-<li><a href="#development--globalization">Development &amp; Globalization</a></li>
-</ul>
-</li>
-</ul>
-<h2 id="how-to-use-this-curriculum">How to use this curriculum</h2>
-<h3 id="core-sections">Core Sections</h3>
-<p>These five sections form the essential backbone of the discipline. Study them in this exact order:</p>
-<p>I. Pan-Asian Foundations: Start here. This section gives the basic geographical, historical, religious, and linguistic context shared across much of Asia.</p>
-<p>II. Core Regional Histories: Next, learn the major historical development of the three main sub-regions of Asia (East, South, and Southeast). This is the historical spine of the field.</p>
-<p>III. Asian Philosophical Traditions: After history, study the major ways of thinking and belief systems that have shaped Asian societies for centuries.</p>
-<p>IV. Asian Literatures &amp; Arts: Then explore how Asian cultures have expressed ideas, values, and experiences through literature, visual art, and performance.</p>
-<p>V. Modern Asia: Society, Politics, Economy: Finish the core by understanding how Asia changed in the last two centuries – colonialism, independence, modern states, and economic transformation.</p>
-<h2 id="pan-asian-foundations">Pan-Asian Foundations</h2>
-<h3 id="geography-peoples-and-regions">Geography, Peoples, and Regions</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://asiasociety.org/countries-regions">Asia Society – Country &amp; Regional Profiles</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.cia.gov/the-world-factbook/east-and-southeast-asia/">CIA World Factbook (Asia sections)</a></li>
-</ul>
-<h3 id="big-picture-asian-history">Big-Picture Asian History</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/historyofeastasi0000holc">A History of East Asia: From the Origins of Civilization to the Twenty-First Century by Charles Holcombe</a> – focus on early chapters for pan-Asian frame</li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.khanacademy.org/humanities/art-asia">Khan Academy – Asian Art and Culture overview sections</a></li>
-</ul>
-<h3 id="major-religious-traditions-of-asia">Major Religious Traditions of Asia</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.edx.org/learn/religion">edX / Coursera – Introduction to Asian Religions or World Religions courses covering Asia</a> (search for broad Asian coverage)</li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://plato.stanford.edu/">Stanford Encyclopedia of Philosophy (Buddhism, Hinduism, Confucianism, Daoism, Jainism)</a> (search for related entries)</li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/asianphilosophie0000koll">Asian Philosophies by John M. Koller</a></li>
-</ul>
-<p>(Note: Language study – optional: <a target="_blank" rel="noopener noreferrer" href="https://hocbigg.github.io/#languages">Hocbigg - Languages</a>)</p>
-<h2 id="core-regional-histories">Core Regional Histories</h2>
-<h3 id="east-asia-china-korea-japan">East Asia (China, Korea, Japan)</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/historyofeastasi0000holc">A History of East Asia: From the Origins of Civilization to the Twenty-First Century by Charles Holcombe</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.edx.org/school/harvardx">Harvard edX – ChinaX or similar humanities series</a></li>
-</ul>
-<h3 id="south-asia-india-pakistan-bangladesh-sri-lanka">South Asia (India, Pakistan, Bangladesh, Sri Lanka)</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/indiahistoryfrom0000keay">John Keay – India: A History</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/wonderthatwasind0000bash">The Wonder That Was India by A.L. Basham (classic intro)</a></li>
-</ul>
-<h3 id="southeast-asia">Southeast Asia</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/southeastasiaint0000osbo_t3o7">Milton Osborne – Southeast Asia: An Introductory History</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://asiasociety.org/education/introduction-southeast-asia">Asia Society – Introduction to Southeast Asia</a></li>
-</ul>
-<h2 id="asian-philosophical-traditions">Asian Philosophical Traditions</h2>
-<h3 id="indian-traditions">Indian Traditions</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/bhagavadgita00eash"><em>Bhagavad Gita</em> (Easwaran or any standard beginner translation)</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/asianphilosophie0000koll">Asian Philosophies by John M. Koller – Indian sections</a></li>
-</ul>
-<h3 id="chinese-traditions">Chinese Traditions</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://plato.stanford.edu/">Stanford Encyclopedia – Confucianism, Daoism, Legalism</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://press.princeton.edu/books/paperback/9780691200781/the-art-of-chinese-philosophy">The Art of Chinese Philosophy by Paul Goldin (accessible intro)</a></li>
-</ul>
-<h3 id="buddhist-worlds">Buddhist Worlds</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.accesstoinsight.org/">Access to Insight (Theravada texts)</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/details/whatthebuddhatau0000rah">What the Buddha Taught by Walpola Rahula (standard beginner text)</a></li>
-</ul>
-<h2 id="asian-literatures-arts">Asian Literatures &amp; Arts</h2>
-<h3 id="literary-traditions">Literary Traditions</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://archive.org/search?query=asian+literature+anthology+translation">Anthologies of Asian Literature in Translation (e.g., Norton or Columbia anthologies)</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.edx.org/learn/chinese-history/harvard-university-china-humanities-the-individual-in-chinese-culture">Harvard edX – China Humanities: The Individual in Chinese Culture</a></li>
-</ul>
-<h3 id="visual-performing-arts">Visual &amp; Performing Arts</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.khanacademy.org/humanities/art-asia">Khan Academy – Asian Art History</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.metmuseum.org/art/collection/search?department=6&amp;showOnly=openAccess">Met Museum Open Access – Asian Collections</a></li>
-</ul>
-<h2 id="modern-asia-society-politics-economy">Modern Asia: Society, Politics, Economy</h2>
-<h3 id="colonialism-independence">Colonialism &amp; Independence</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://oyc.yale.edu/">Yale Open Courses – Modern South Asia (or similar)</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.edx.org/xseries/harvard-university-china-modern-world">Harvard edX – Modern China or Asia series</a></li>
-</ul>
-<h3 id="politics-international-relations">Politics &amp; International Relations</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/">MIT OCW – International Relations of East Asia</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.coursera.org/search?query=asian%20politics">Introduction to Asian Politics (various edX/Coursera options)</a></li>
-</ul>
-<h3 id="development-globalization">Development &amp; Globalization</h3>
-<ul>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.worldbank.org/en/region/eap/publication/east-asia-pacific-economic-update">World Bank – East Asia &amp; Pacific Economic Updates</a></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://www.undp.org/asia-pacific/publications">UNDP Asia-Pacific Human Development Reports</a></li>
-</ul>
-<h1 id="code-of-conduct">Code of conduct</h1>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/hocbigg/code-of-conduct">Hocbigg's code of conduct</a>.</p>
-</article>
-</main>
+<h2 id="curriculum">Curriculum</h2>
+<h3 id="geographical-and-environmental-foundations">Geographical and Environmental Foundations</h3>
+<p><a href="https://socialsci.libretexts.org/Bookshelves/Geography_(Human)/World_Regional_Geography_(Finlayson)/08%3A_South_Asia" target="_blank" rel="noopener noreferrer">World Regional Geography: South Asia (Social Sci LibreTexts/Caitlin Finlayson)</a> - Open-access textbook modules analyzing the river systems, physical geography, and demographic dynamics of the Indian subcontinent.</p>
+<p><a href="https://socialsci.libretexts.org/Bookshelves/Geography_(Human)/World_Regional_Geography_(Finlayson)/09%3A_East_and_Southeast_Asia" target="_blank" rel="noopener noreferrer">World Regional Geography: East and Southeast Asia (Social Sci LibreTexts/Caitlin Finlayson)</a> - Open-access textbook modules exploring Asia's eastern landscapes, monsoonal dynamics, river basins, and human settlement patterns.</p>
+<p><a href="https://books.google.com/books?isbn=9780815378600" target="_blank" rel="noopener noreferrer">A History of Asia (Routledge/Rhoads Murphey &amp; Kristin Stapleton)</a> - Standard introductory textbook examining the relationship between physical environment, agrarian systems, and civilizational growth across monsoon Asia.</p>
+<h3 id="macro-histories-trans-eurasian-connectivity">Macro-Histories &amp; Trans-Eurasian Connectivity</h3>
+<p><a href="https://books.google.com/books?isbn=9780190218423" target="_blank" rel="noopener noreferrer">The Silk Road: A New History (Oxford University Press/Valerie Hansen)</a> - Canonical history documenting the overland oasis networks, multilingual communities, and religious transmissions across Central Eurasia.</p>
+<p><a href="https://books.google.com/books?isbn=9780195076400" target="_blank" rel="noopener noreferrer">Old World Encounters: Cross-Cultural Contacts and Exchanges in Pre-Modern Times (Oxford University Press/Jerry H. Bentley)</a> - Foundational comparative study on pre-modern trans-Eurasian trade routes, cultural diffusion, and conversion patterns.</p>
+<p><a href="https://books.google.com/books?isbn=9780415312783" target="_blank" rel="noopener noreferrer">The Indian Ocean in World History (Routledge/Milo Kearney)</a> - Accessible survey of the maritime trading circuits connecting the Persian Gulf, South Asia, Southeast Asia, and East China.</p>
+<p><a href="https://smarthistory.org/the-silk-roads/" target="_blank" rel="noopener noreferrer">The Silk Roads (Smarthistory/Dr. Eiren Shea)</a> - Open-access digital guide examining the material culture, trade networks, and artistic transmissions across Eurasia.</p>
+<h3 id="east-asian-civilizations-china-japan-and-korea">East Asian Civilizations: China, Japan, and Korea</h3>
+<p><a href="https://books.google.com/books?isbn=9781107544895" target="_blank" rel="noopener noreferrer">A History of East Asia: From the Origins of Civilization to the Twenty-First Century (Cambridge University Press/Charles Holcombe)</a> - Comprehensive single-volume textbook surveying the shared traditions and distinct political trajectories of China, Japan, and Korea.</p>
+<p><a href="https://books.google.com/books?isbn=9781133606475" target="_blank" rel="noopener noreferrer">East Asia: A Cultural, Social, and Political History (Cengage Learning/Patricia Buckley Ebrey &amp; Anne Walthall)</a> - Widely assigned undergraduate history emphasizing social institutions, religion, and gender alongside dynastic statecraft.</p>
+<p><a href="https://projects.iq.harvard.edu/chinax" target="_blank" rel="noopener noreferrer">ChinaX: China's Past, Present and Future (Harvard University/Peter K. Bol &amp; William C. Kirby)</a> - Open university course series covering foundational Chinese history, geography, and intellectual shifts from antiquity to the modern era.</p>
+<p><a href="https://ocw.mit.edu/courses/21h-504-east-asia-in-the-world-spring-2003/" target="_blank" rel="noopener noreferrer">MIT OpenCourseWare: East Asia in the World (MIT/Peter C. Perdue)</a> - Undergraduate syllabus and reading lists covering diplomatic, commercial, and cultural interactions across pre-modern and modern East Asia.</p>
+<h3 id="south-asian-civilizations-the-indian-subcontinent">South Asian Civilizations: The Indian Subcontinent</h3>
+<p><a href="https://www.youtube.com/playlist?list=PLy3KRgc0HE8B4neta_B8LPM0G9UWy-Cqe" target="_blank" rel="noopener noreferrer">History of Indian Civilization (UCLA/Vinay Lal)</a> - Complete 26-lecture university course recording surveying Indian society, politics, and culture from the Indus Valley Civilization to the early modern period.</p>
+<p><a href="https://archive.org/details/wonderthatwasind0000bash" target="_blank" rel="noopener noreferrer">The Wonder That Was India (Internet Archive/A.L. Basham)</a> - Classic foundational study detailing ancient and classical Indian society, political governance, art, and religion.</p>
+<p><a href="https://books.google.com/books?isbn=9781032124186" target="_blank" rel="noopener noreferrer">Modern South Asia: History, Culture, Political Economy (Routledge/Sugata Bose &amp; Ayesha Jalal)</a> - Premier narrative survey tracing civilization, state-building, and social diversity in the Indian subcontinent.</p>
+<p><a href="https://books.google.com/books?isbn=9781107672185" target="_blank" rel="noopener noreferrer">A Concise History of Modern India (Cambridge University Press/Barbara D. Metcalf &amp; Thomas R. Metcalf)</a> - Standard history analyzing Mughal regional authority, British colonial consolidation, partition, and the independent republics.</p>
+<p><a href="https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/" target="_blank" rel="noopener noreferrer">MIT OpenCourseWare: The Making of Modern South Asia (MIT/Haimanti Roy)</a> - Free university syllabus providing discussion topics, primary source readings, and historical analyses of South Asian civilization.</p>
+<h3 id="southeast-asian-civilizations-mainland-and-island-worlds">Southeast Asian Civilizations: Mainland and Island Worlds</h3>
+<p><a href="https://books.google.com/books?isbn=9780195338119" target="_blank" rel="noopener noreferrer">Southeast Asia in World History (Oxford University Press/Craig A. Lockard)</a> - Compact, accessible survey tracing ecological adaptations, classical kingdoms, maritime trade, and cultural evolution across the region.</p>
+<p><a href="https://archive.org/details/southeastasiaint0000osbo_t3o7" target="_blank" rel="noopener noreferrer">Southeast Asia: An Introductory History (Internet Archive/Milton Osborne)</a> - Accessible overview detailing the evolution of classical kingdoms, colonial impact, and national transformations.</p>
+<p><a href="https://books.google.com/books?isbn=9781118513002" target="_blank" rel="noopener noreferrer">A History of Southeast Asia: Critical Crossroads (Wiley-Blackwell/Anthony Reid)</a> - Comprehensive history exploring maritime trade, ecological conditions, religious localization, and cross-cultural adaptability.</p>
+<h3 id="indian-philosophical-religious-traditions">Indian Philosophical &amp; Religious Traditions</h3>
+<p><a href="https://historyofphilosophy.net/series/classical-indian-philosophy" target="_blank" rel="noopener noreferrer">Classical Indian Philosophy (History of Philosophy Without Any Gaps/Peter Adamson &amp; Jonardon Ganeri)</a> - Open audio and reading series walking through the philosophical developments of the Vedas, Upanishads, Jainism, Buddhism, and classical Darshana systems.</p>
+<p><a href="https://books.google.com/books?isbn=9781138629721" target="_blank" rel="noopener noreferrer">Asian Philosophies (Routledge/John M. Koller)</a> - Readable introductory textbook unpacking the metaphysical and ethical frameworks of the Vedas, Upanishads, and orthodox Indian schools.</p>
+<p><a href="https://books.google.com/books?isbn=9780231066518" target="_blank" rel="noopener noreferrer">Sources of Indian Tradition, Volume 1: From the Beginning to 1800 (Columbia University Press/Ainslie T. Embree, ed.)</a> - Indispensable documentary reader containing translated primary texts spanning Brahmanical, Hindu, and Jain thought.</p>
+<p><a href="https://archive.org/details/bhagavadgita00eash" target="_blank" rel="noopener noreferrer">The Bhagavad Gita (Internet Archive/trans. Eknath Easwaran)</a> - Accessible classical translation and commentary on duty, moral action, yoga, and devotion within the Indian intellectual tradition.</p>
+<h3 id="chinese-philosophical-religious-traditions">Chinese Philosophical &amp; Religious Traditions</h3>
+<p><a href="https://pll.harvard.edu/course/chinas-political-and-intellectual-foundations" target="_blank" rel="noopener noreferrer">China's Political and Intellectual Foundations: From Sage Kings to Confucius (Harvard University/Peter K. Bol &amp; William C. Kirby)</a> - Free audit online course detailing early Chinese worldview, archaeology, and the rise of classical philosophical schools.</p>
+<p><a href="https://books.google.com/books?isbn=9781603844680" target="_blank" rel="noopener noreferrer">Introduction to Classical Chinese Philosophy (Hackett Publishing/Bryan W. Van Norden)</a> - Clear, student-focused introduction to early Chinese thought from Confucius through the Han synthesis.</p>
+<p><a href="https://books.google.com/books?isbn=9780691200309" target="_blank" rel="noopener noreferrer">The Art of Chinese Philosophy: Eight Classical Thinkers (Princeton University Press/Paul R. Goldin)</a> - Rigorous, beginner-accessible analysis of core debates among early thinkers including Confucius, Mozi, Zhuangzi, and Han Feizi.</p>
+<p><a href="https://books.google.com/books?isbn=9780231109390" target="_blank" rel="noopener noreferrer">Sources of Chinese Tradition, Volume 1: From Earliest Times to 1600 (Columbia University Press/Wm. Theodore de Bary &amp; Irene Bloom, eds.)</a> - Canonical documentary anthology translating essential primary texts across Confucianism, Daoism, Legalism, and Neo-Confucianism.</p>
+<h3 id="buddhist-traditions-across-asia">Buddhist Traditions Across Asia</h3>
+<p><a href="https://archive.org/details/whatthebuddhatau0000rah" target="_blank" rel="noopener noreferrer">What the Buddha Taught (Internet Archive/Walpola Rahula)</a> - Canonical, clear exposition of foundational Buddhist doctrine, including the Four Noble Truths, the Eightfold Path, and Non-Self.</p>
+<p><a href="https://books.google.com/books?isbn=9780521859424" target="_blank" rel="noopener noreferrer">An Introduction to Buddhism: Teachings, History and Practices (Cambridge University Press/Peter Harvey)</a> - Academic survey detailing the doctrinal developments and monastic lineages of Theravada, Mahayana, and Vajrayana Buddhism.</p>
+<p><a href="https://pll.harvard.edu/course/buddhism-through-its-scriptures" target="_blank" rel="noopener noreferrer">Buddhism Through Its Scriptures (Harvard Online/Charles Hallisey)</a> - Free audit MOOC exploring Buddhist beliefs, textual interpretation, and religious practices across varied regional cultures.</p>
+<h3 id="islamic-traditions-in-south-and-southeast-asia">Islamic Traditions in South and Southeast Asia</h3>
+<p><a href="https://books.google.com/books?isbn=9788125046585" target="_blank" rel="noopener noreferrer">Islam in South Asia: A Short History (Brill/Jamal Malik)</a> - Essential survey analyzing the historical spread of Islam, Sufi networks, Indo-Islamic syncretism, and Muslim statecraft across the subcontinent.</p>
+<p><a href="https://www.asianstudies.org/publications/eaa/archives/teaching-islam-in-southeast-asia/" target="_blank" rel="noopener noreferrer">Teaching Islam in Southeast Asia (Education About Asia/Nelly van Doorn-Harder)</a> - Open-access scholarly analysis exploring the peaceful adoption, localized practices, and cultural role of Islam in the Malay-Indonesian world.</p>
+<p><a href="https://www.asianstudies.org/publications/eaa/archives/special-sections/teaching-about-islam-in-asia/" target="_blank" rel="noopener noreferrer">Islam in Asia: Histories, Cultures, Practices (Association for Asian Studies)</a> - Curated open-access academic articles and pedagogical modules addressing Islamic civilizations across Asia.</p>
+<h3 id="classical-and-premodern-asian-literatures">Classical and Premodern Asian Literatures</h3>
+<p><a href="https://books.google.com/books?isbn=9781563242588" target="_blank" rel="noopener noreferrer">Masterworks of Asian Literature in Comparative Perspective (Routledge/Barbara Stoler Miller, ed.)</a> - Standard pedagogical anthology guiding independent readers through major Indian, Chinese, and Japanese epics, plays, and lyric poetry.</p>
+<p><a href="https://books.google.com/books?isbn=9780231074292" target="_blank" rel="noopener noreferrer">The Columbia Anthology of Traditional Chinese Literature (Columbia University Press/Victor H. Mair, ed.)</a> - Authoritative collection of pre-modern Chinese verse, narrative prose, and theatrical drama translated by leading sinologists.</p>
+<p><a href="https://books.google.com/books?isbn=9780231124614" target="_blank" rel="noopener noreferrer">The Columbia Anthology of Traditional Korean Poetry (Columbia University Press/Peter H. Lee, ed.)</a> - Comprehensive selection of traditional Korean poetic forms, including Hyangga, Sijo, and Gasa in English translation.</p>
+<p><a href="https://books.google.com/books?isbn=9780393602821" target="_blank" rel="noopener noreferrer">The Norton Anthology of World Literature: Volumes A–C (W. W. Norton/Martin Puchner et al., eds.)</a> - Comparative anthology containing definitive translations of the Mahabharata, Ramayana, Tang poetry, and The Tale of Genji.</p>
+<h3 id="visual-culture-material-culture-and-architecture">Visual Culture, Material Culture, and Architecture</h3>
+<p><a href="https://smarthistory.org/asia/" target="_blank" rel="noopener noreferrer">Smarthistory: Guide to Asian Art (Smarthistory)</a> - Structured open-access collection of peer-reviewed essays, image galleries, and videos on Buddhist, Hindu, East Asian, and Islamic art and architecture.</p>
+<p><a href="https://visualizingcultures.mit.edu/" target="_blank" rel="noopener noreferrer">Visualizing Cultures (MIT/John W. Dower &amp; Shigeru Miyagawa)</a> - Digital learning project using image records and scholarly essays to explore Asian cultural history and encounters with modernity.</p>
+<p><a href="https://books.google.com/books?isbn=9780192842213" target="_blank" rel="noopener noreferrer">Indian Art (Oxford University Press/Partha Mitter)</a> - Concise, authoritative art history survey analyzing South Asian temple architecture, sculpture, and Mughal painting.</p>
+<p><a href="https://books.google.com/books?isbn=9780520294813" target="_blank" rel="noopener noreferrer">The Arts of China (University of California Press/Michael Sullivan)</a> - Standard undergraduate introduction to Chinese painting, ritual bronzes, ceramics, and architecture from antiquity to the modern era.</p>
+<h3 id="imperialism-anti-colonialism-and-decolonization">Imperialism, Anti-Colonialism, and Decolonization</h3>
+<p><a href="https://books.google.com/books?isbn=9780198753704" target="_blank" rel="noopener noreferrer">Modern China: A Very Short Introduction (Oxford University Press/Rana Mitter)</a> - Concise historical analysis of China's encounter with Western and Japanese imperialism, the fall of the Qing, and twentieth-century revolutions.</p>
+<p><a href="https://books.google.com/books?isbn=9780824828905" target="_blank" rel="noopener noreferrer">The Emergence of Modern Southeast Asia: A New History (University of Hawaii Press/Norman G. Owen, ed.)</a> - Definitive history tracing Southeast Asian societies through Western colonial rule, Japanese occupation, and anti-colonial independence movements.</p>
+<p><a href="https://visualizingcultures.mit.edu/opium_wars_01/ow1_essay01.html" target="_blank" rel="noopener noreferrer">MIT Visualizing Cultures: Canton Trade and the Opium War (MIT)</a> - Visual-historical learning unit examining early modern commercial exchanges and the onset of Western imperialism in China.</p>
+<p><a href="https://books.google.com/books?isbn=9780231138314" target="_blank" rel="noopener noreferrer">Sources of Indian Traditions, Volume 2: Modern India, Pakistan, and Bangladesh (Columbia University Press/Rachel Fell McDermott et al., eds.)</a> - Primary document collection detailing anti-colonial intellectual movements, the Indian National Congress, the Muslim League, and post-colonial state-building.</p>
+<h3 id="contemporary-asian-politics-governance-and-political-economy">Contemporary Asian Politics, Governance, and Political Economy</h3>
+<p><a href="https://books.google.com/books?isbn=9781538151600" target="_blank" rel="noopener noreferrer">International Relations of Asia (Rowman &amp; Littlefield/David Shambaugh, ed.)</a> - Core undergraduate textbook examining regional security architecture, great power relations, and multilateral forums across the Asia-Pacific.</p>
+<p><a href="https://books.google.com/books?isbn=9781800370609" target="_blank" rel="noopener noreferrer">The Political Economy of East Asia: Wealth and Power (Edward Elgar Publishing/Ming Wan)</a> - Undergraduate text analyzing the East Asian developmental state, trade policy, manufacturing supply chains, and finance.</p>
+<p><a href="https://books.google.com/books?isbn=9781032219745" target="_blank" rel="noopener noreferrer">Southeast Asia in the New International Era (Routledge/Robert Dayley)</a> - Comprehensive survey of contemporary political regimes, economic modernization, and regional cooperation under ASEAN.</p>
+<p><a href="https://books.google.com/books?isbn=9781538128381" target="_blank" rel="noopener noreferrer">The United States and Asia: Regional Dynamics and Twenty-First-Century Relations (Rowman &amp; Littlefield/Robert G. Sutter)</a> - Detailed analysis of post-WWII regional alliances, economic interdependence, and trans-Pacific diplomacy.</p>
+<p><a href="https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/" target="_blank" rel="noopener noreferrer">MIT OpenCourseWare: International Relations of East Asia (MIT/M. Taylor Fravel)</a> - University syllabus and reading lists examining regional foreign policies, security dilemmas, and diplomatic flashpoints.</p>
+    </article>
+  </main>
 
 </body>
 </html>
