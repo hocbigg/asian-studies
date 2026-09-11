@@ -134,7 +134,7 @@ Language study runs parallel throughout, aiming for intermediate proficiency in 
 
 [The Emergence of Modern Southeast Asia: A New History (University of Hawaii Press/Norman G. Owen, ed.)](https://books.google.com/books?isbn=9780824828905) - Definitive history tracing Southeast Asian societies through Western colonial rule, Japanese occupation, and anti-colonial independence movements.
 
-[MIT Visualizing Cultures: Canton Trade and the Opium War (MIT)](https://visualizingcultures.mit.edu/canton_trade/ct_curriculum.html) - Visual-historical learning unit examining early modern commercial exchanges and the onset of Western imperialism in China.
+[MIT Visualizing Cultures: Canton Trade and the Opium War (MIT)](https://visualizingcultures.mit.edu/opium_wars_01/ow1_essay01.html) - Visual-historical learning unit examining early modern commercial exchanges and the onset of Western imperialism in China.
 
 [Sources of Indian Traditions, Volume 2: Modern India, Pakistan, and Bangladesh (Columbia University Press/Rachel Fell McDermott et al., eds.)](https://books.google.com/books?isbn=9780231138314) - Primary document collection detailing anti-colonial intellectual movements, the Indian National Congress, the Muslim League, and post-colonial state-building.
 
