@@ -4,49 +4,51 @@ This curated bibliography brings together transformative monographs, seminal ess
 
 ## Foundational Epistemologies, Historiography & Decolonial Theory
 
-| Title | Author(s) | Type | Why It's Worth Reading |
-| :--- | :--- | :--- | :--- |
-| *Orientalism* | Edward W. Said | Landmark Monograph | Formulates the definitive critique of how Western imperial scholarship constructed "the Orient" as an exotic, static, and subjugated Other to justify colonial dominance. |
-| *Provincializing Europe: Postcolonial Thought and Historical Difference* | Dipesh Chakrabarty | Landmark Monograph | Challenges the universalist claims of European social theory by demonstrating how modern Asian historical experiences require indigenous categories of life and temporality. |
-| *Asia as Method: Toward Deimperialization* | Kuan-Hsing Chen | Monograph | Proposes using Asian societies as mutual reference points to decenter Western hegemony and dismantle Cold War ideological epistemologies. |
-| *Rescuing History from the Nation: Questioning Narratives of Modern China* | Prasenjit Duara | Monograph | Critiques unilinear, teleological nationalist historiographies and recovers bifurcated, transnational, and regional historical alternatives in modern China. |
-| *Can the Subaltern Speak?* | Gayatri Chakravorty Spivak | Landmark Essay | Foundational postcolonial text investigating how colonial archives and indigenous patriarchal structures systematically erase the agency and voice of subaltern women. |
-| *On Some Aspects of the Historiography of Colonial India* | Ranajit Guha | Landmark Manifesto | The inaugural statement of the Subaltern Studies collective, demonstrating how both colonialist and bourgeois nationalist elites excluded peasant consciousness from Indian history. |
+| Title | Author(s) |
+| :--- | :--- |
+| [*Orientalism*](https://archive.org/details/orientalism0000said) | Edward W. Said |
+| [*Provincializing Europe: Postcolonial Thought and Historical Difference*](https://archive.org/details/provincializinge0000chak) | Dipesh Chakrabarty |
+| [*Selected Subaltern Studies*](https://archive.org/details/selectedsubalter0000unse) | Ranajit Guha & Gayatri Chakravorty Spivak (eds.) |
+| [*Can the Subaltern Speak? Reflections on the History of an Idea*](https://archive.org/details/canthesubalterns0000unse) | Gayatri Chakravorty Spivak (ed. Rosalind C. Morris) |
+| [*Asia as Method: Toward Deimperialization*](https://books.google.com/books?isbn=9780822346760) | Kuan-Hsing Chen |
+| [*Rescuing History from the Nation: Questioning Narratives of Modern China*](https://books.google.com/books?isbn=9780226167220) | Prasenjit Duara |
 
-## State Formation, Political Economy & Power Dynamics
+## State Formation, Political Economy & Everyday Power
 
-| Title | Author(s) | Type | Why It's Worth Reading |
-| :--- | :--- | :--- | :--- |
-| *Imagined Communities: Reflections on the Origin and Spread of Nationalism* | Benedict Anderson | Landmark Monograph | Conceptualizes the modern nation as a socially constructed, imagined community, drawing foundational empirical cases from Southeast Asian anti-colonial movements and print-capitalism. |
-| *The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia* | James C. Scott | Landmark Monograph | Argues that the upland peoples of "Zomia" deliberately organized their geography, kinship, and agriculture to evade incorporation into lowland predatory states. |
-| *Negara: The Theatre State in Nineteenth-Century Bali* | Clifford Geertz | Landmark Monograph | Demonstrates that political power in classical Bali was generated through public ceremonial spectacle and aesthetic ritual rather than bureaucratic tyranny or military force. |
-| *MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925–1975* | Chalmers Johnson | Landmark Monograph | Originates the canonical theory of the "developmental state," detailing how state-guided economic planning and elite pilot agencies orchestrated post-war industrialization. |
-| *Weapons of the Weak: Everyday Forms of Peasant Resistance* | James C. Scott | Landmark Monograph | Pioneers the ethnographic study of unorganized, covert, everyday resistance (foot-dragging, dissimulation, sabotage) among rural agrarian laborers in Malaysia. |
+| Title | Author(s) |
+| :--- | :--- |
+| [*Imagined Communities: Reflections on the Origin and Spread of Nationalism*](https://archive.org/details/imaginedcommunit0000ande) | Benedict Anderson |
+| [*Negara: The Theatre State in Nineteenth-Century Bali*](https://archive.org/details/negaratheatresta00geer) | Clifford Geertz |
+| [*Weapons of the Weak: Everyday Forms of Peasant Resistance*](https://archive.org/details/weaponsofweakeve0000scot) | James C. Scott |
+| [*MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925–1975*](https://books.google.com/books?isbn=9780804712064) | Chalmers Johnson |
+| [*Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization*](https://books.google.com/books?isbn=9780691117294) | Robert Wade |
 
-## Modernity, Social Structure & Emancipatory Thought
+## Social Structure, Caste & Emancipatory Thought
 
-| Title | Author(s) | Type | Why It's Worth Reading |
-| :--- | :--- | :--- | :--- |
-| *Annihilation of Caste* | B. R. Ambedkar | Landmark Text | The definitive, uncompromising philosophical treatise on the oppressive mechanics of the Hindu caste hierarchy and the imperative for constitutional and moral democracy. |
-| *From the Soil: The Foundations of Chinese Society (Xiangtu Zhongguo)* | Fei Xiaotong | Landmark Monograph | The foundational classic of Chinese sociology, articulating the relational, kinship-centered "differential mode of association" (*chaxu geju*) that governs agrarian social life. |
-| *Underground Asia: Global Revolutionaries and the Assault on Empire* | Tim Harper | Monograph | Reconstructs the clandestine international networks of Asian anarchists, communists, and anti-colonial exiles operating across cosmopolitan treaty ports in the early 20th century. |
-| *The Question of Women in Chinese Feminism* | Tani E. Barlow | Monograph | Examines how historical categories of womanhood (*nüxing*, *funü*) were conceptualized, contested, and institutionalized in modern Chinese revolutionary and state projects. |
+| Title | Author(s) |
+| :--- | :--- |
+| [*Annihilation of Caste*](https://ccnmtl.columbia.edu/projects/mmt/ambedkar/) | B. R. Ambedkar |
+| [*From the Soil: The Foundations of Chinese Society (Xiangtu Zhongguo)*](https://archive.org/details/fromsoilfoundati0000feix) | Fei Xiaotong |
+| [*Nationalism*](https://www.gutenberg.org/ebooks/40766) | Rabindranath Tagore |
+| [*Underground Asia: Global Revolutionaries and the Assault on Empire*](https://books.google.com/books?isbn=9780674724617) | Tim Harper |
+| [*The Question of Women in Chinese Feminism*](https://books.google.com/books?isbn=9780822332701) | Tani E. Barlow |
 
 ## Cultural Masterworks, Aesthetics & Narrative Worlds
 
-| Title | Author(s) | Type | Why It's Worth Reading |
-| :--- | :--- | :--- | :--- |
-| *The Tale of Genji (Genji Monogatari)* | Murasaki Shikibu (trans. Royall Tyler) | Classic Epic | The zenith of Heian court literature and the world's first psychological novel, embodying the core Japanese aesthetic concept of *mono no aware* (the pathos of impermanence). |
-| *The Story of the Stone (Dream of the Red Chamber)* | Cao Xueqin (trans. David Hawkes) | Classic Epic | An encyclopedic masterpiece of 18th-century Chinese fiction exploring the decline of an aristocratic family through the philosophical interplay of illusion, truth, and Buddhist-Daoist destiny. |
-| *Abhijnanasakuntalam (The Recognition of Sakuntala)* | Kalidasa (trans. Barbara Stoler Miller) | Classic Drama | The premier work of classical Sanskrit dramatic poetry, meditating on memory, sovereign duty (*dharma*), and emotional aesthetic savor (*rasa*). |
-| *This Earth of Mankind (The Buru Quartet)* | Pramoedya Ananta Toer (trans. Max Lane) | Literary Monograph | Indonesia's foremost anti-colonial novel, depicting the emergence of modern political consciousness, racial subordination, and legal injustice under Dutch colonial rule. |
-| *The Real Story of Ah Q and Other Classic Stories* | Lu Xun (trans. Julia Lovell) | Classic Stories | Seminal 20th-century vernacular fiction that diagnosed the psychological and institutional paralysis of traditional Chinese society during the May Fourth era. |
+| Title | Author(s) |
+| :--- | :--- |
+| [*The Tale of Genji*](https://www.gutenberg.org/ebooks/40150) | Murasaki Shikibu (trans. Arthur Waley) |
+| [*The Story of the Stone (Dream of the Red Chamber)*](https://www.gutenberg.org/ebooks/9603) | Cao Xueqin (trans. H. Bencraft Joly) |
+| [*Abhijnanasakuntalam (The Recognition of Sakuntala)*](https://www.gutenberg.org/ebooks/1665) | Kalidasa (trans. Arthur W. Ryder) |
+| [*Selected Stories of Lu Hsun (including The True Story of Ah Q and Call to Arms)*](https://archive.org/details/selectedstorieso0000luxu) | Lu Xun |
+| [*This Earth of Mankind*](https://archive.org/details/thisearthofmanki0000toer_a1h2) | Pramoedya Ananta Toer (trans. Max Lane) |
 
-## Transboundary Connectivities, Maritime Networks & Ecology
+## Maritime Networks, Ecology & Transboundary Worlds
 
-| Title | Author(s) | Type | Why It's Worth Reading |
-| :--- | :--- | :--- | :--- |
-| *Crossing the Bay of Bengal: The Furies of Nature and the Fortunes of Migrants* | Sunil Amrith | Monograph | Traces how monsoon weather patterns, British colonial capitalism, and mass maritime labor migration forged a deeply integrated South and Southeast Asian oceanic world. |
-| *Before European Hegemony: The World System A.D. 1250–1350* | Janet L. Abu-Lughod | Landmark Monograph | Reconstructs the polycentric, pre-modern Afro-Eurasian trading system, proving that complex economic integration operated across the Indian Ocean well before European arrival. |
-| *Trade and Civilisation in the Indian Ocean: An Economic History from the Rise of Islam to 1750* | K. N. Chaudhuri | Landmark Monograph | Applies systemic structural analysis to explain how seasonal monsoons, merchant emporia, and trade treaties governed maritime commerce across Asia for a millennium. |
-| *The Great Derangement: Climate Change and the Unthinkable* | Amitav Ghosh | Landmark Essay | Analyzes the cultural and imaginative failure of modern political theory and literary fiction to confront ecological crisis, centering the vulnerability of Asian deltas. |
+| Title | Author(s) |
+| :--- | :--- |
+| [*Before European Hegemony: The World System A.D. 1250–1350*](https://archive.org/details/beforeeuropeanhe0000abul) | Janet L. Abu-Lughod |
+| [*Trade and Civilisation in the Indian Ocean: An Economic History from the Rise of Islam to 1750*](https://archive.org/details/tradecivilisatio0000chau) | K. N. Chaudhuri |
+| [*Southeast Asia in the Age of Commerce, 1450–1680*](https://archive.org/details/southeastasiaina0002reid) | Anthony Reid |
+| [*Crossing the Bay of Bengal: The Furies of Nature and the Fortunes of Migrants*](https://books.google.com/books?isbn=9780674281455) | Sunil Amrith |
+| [*The Great Derangement: Climate Change and the Unthinkable*](https://books.google.com/books?isbn=9780226323176) | Amitav Ghosh |

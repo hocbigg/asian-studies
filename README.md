@@ -3,40 +3,15 @@ title: Hocbigg - Asian Studies
 description: Path to a free self-taught education in Asian Studies!
 ---
 
-# Contents
+## Summary
 
-- [Summary](#summary)
-- [Communities](#communities)
-- [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
-
-# Summary
-
-The Asian Studies curriculum is a complete education in Asian Studies using online materials. The program emphasizes interdisciplinary approaches, balancing history, culture, religion, philosophy, politics, and language proficiency.
+The Asian Studies curriculum is a complete education in Asian Studies using online materials.
 
 Asian Studies is inherently broad, covering East Asia (China, Japan, Korea), South Asia (India, Pakistan, Bangladesh, etc.), and Southeast Asia. Students should select a primary regional focus early (e.g., East Asia) while maintaining comparative exposure.
 
 Language study runs parallel throughout, aiming for intermediate proficiency in one Asian language (e.g., Chinese, Japanese, Hindi, or another relevant to the chosen region).
 
-## Organization
-
-This repository is organized into 2 main components:
-
-- **Core Curriculum** (this page): the foundational knowledge of the field;
-- **[Advanced Topics](advanced_topics.md)**: focused study in specific areas;
-
-**Process:** Learners may work through the curriculum independently or collaboratively, and either sequentially or selectively.
-
-- For simplicity, courses in the Core Curriculum are ordered according to their prerequisites.
-- The Core Curriculum provides a shared foundation and is intended to be completed in full.
-- Advanced Topics are optional; learners are encouraged to select one area of focus and complete all courses within that topic.
-
-Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md).
-
-**[How to contribute](/CONTRIBUTING.html)**
-
-# Communities
+## Communities
 
 - Forums:
     - [H-Asia (H-Net Discussion Network)](https://networks.h-net.org/h-asia)
@@ -46,156 +21,131 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
     - [r/AskHistorians](https://www.reddit.com/r/AskHistorians/) (frequent high-quality threads on Asian history and culture)
     - [r/southeastasia](https://www.reddit.com/r/southeastasia/)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/asian-studies/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
-- Join our Discord server (for discussions around this and other curricula): 
-  :  [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
-# Curriculum
+## Curriculum
 
-- [Pan-Asian Foundations](#pan-asian-foundations)
-    - [Geography, Peoples, and Regions](#geography-peoples-and-regions)
-    - [Big-Picture Asian History](#big-picture-asian-history)
-    - [Major Religious Traditions of Asia](#major-religious-traditions-of-asia)
-    - [Language Foundations](#language-foundations)
-- [Core Regional Histories](#core-regional-histories)
-    - [East Asia China, Korea, Japan](#east-asia-china-korea-japan)
-    - [South Asia India, Pakistan, Bangladesh, Sri Lanka](#south-asia-india-pakistan-bangladesh-sri-lanka)
-    - [Southeast Asia](#southeast-asia)
-    - [Cross-Regional Connectivity & the Silk Roads](#cross-regional-connectivity--the-silk-roads)
-- [Asian Philosophical Traditions](#asian-philosophical-traditions)
-    - [Indian Traditions](#indian-traditions)
-    - [Chinese Traditions](#chinese-traditions)
-    - [Buddhist Worlds](#buddhist-worlds)
-- [Asian Literatures & Arts](#asian-literatures--arts)
-    - [Literary Traditions](#literary-traditions)
-    - [Visual & Performing Arts](#visual--performing-arts)
-- [Modern Asia: Society, Politics, Economy](#modern-asia-society-politics-economy)
-    - [Colonialism, Nationalism, and Independence](#colonialism-nationalism-and-independence)
-    - [Politics & International Relations](#politics--international-relations)
-    - [Development & Globalization](#development--globalization)
+### Geographical and Environmental Foundations
 
-## How to use this curriculum
+[World Regional Geography: South Asia (Social Sci LibreTexts/Caitlin Finlayson)](https://socialsci.libretexts.org/Bookshelves/Geography_(Human)/World_Regional_Geography_(Finlayson)/08%3A_South_Asia) - Open-access textbook modules analyzing the river systems, physical geography, and demographic dynamics of the Indian subcontinent.
 
-### Core Sections
+[World Regional Geography: East and Southeast Asia (Social Sci LibreTexts/Caitlin Finlayson)](https://socialsci.libretexts.org/Bookshelves/Geography_(Human)/World_Regional_Geography_(Finlayson)/09%3A_East_and_Southeast_Asia) - Open-access textbook modules exploring Asia's eastern landscapes, monsoonal dynamics, river basins, and human settlement patterns.
 
-These five sections form the essential backbone of the discipline. Study them in this exact order:
+[A History of Asia (Routledge/Rhoads Murphey & Kristin Stapleton)](https://books.google.com/books?isbn=9780815378600) - Standard introductory textbook examining the relationship between physical environment, agrarian systems, and civilizational growth across monsoon Asia.
 
-I. Pan-Asian Foundations: Start here. This section establishes the shared geographical environments, macro-historical arcs, major religious worldviews, and linguistic families of the Asian continent.
+### Macro-Histories & Trans-Eurasian Connectivity
 
-II. Core Regional Histories: Next, examine the distinct historical trajectories of East Asia, South Asia, Southeast Asia, and the trans-regional Silk Road and maritime networks that connected them.
+[The Silk Road: A New History (Oxford University Press/Valerie Hansen)](https://books.google.com/books?isbn=9780190218423) - Canonical history documenting the overland oasis networks, multilingual communities, and religious transmissions across Central Eurasia.
 
-III. Asian Philosophical Traditions: After establishing the historical narrative, study the primary philosophical texts and ethical frameworks (Brahmanical/Hindu, Buddhist, Confucian, Daoist, and Legalist) that shaped Asian intellectual life.
+[Old World Encounters: Cross-Cultural Contacts and Exchanges in Pre-Modern Times (Oxford University Press/Jerry H. Bentley)](https://books.google.com/books?isbn=9780195076400) - Foundational comparative study on pre-modern trans-Eurasian trade routes, cultural diffusion, and conversion patterns.
 
-IV. Asian Literatures & Arts: Explore how Asian civilizations expressed human experience, aesthetics, and social values through canonical literary works, visual arts, and architectural traditions.
+[The Indian Ocean in World History (Routledge/Milo Kearney)](https://books.google.com/books?isbn=9780415312783) - Accessible survey of the maritime trading circuits connecting the Persian Gulf, South Asia, Southeast Asia, and East China.
 
-V. Modern Asia: Society, Politics, Economy: Conclude the core by examining how Asia transformed during the 19th through 21st centuries through the encounter with Western imperialism, anti-colonial nationalism, nation-state formation, economic modernization, and contemporary geopolitics.
+[The Silk Roads (Smarthistory/Dr. Eiren Shea)](https://smarthistory.org/the-silk-roads/) - Open-access digital guide examining the material culture, trade networks, and artistic transmissions across Eurasia.
 
-## Pan-Asian Foundations
+### East Asian Civilizations: China, Japan, and Korea
 
-### Geography, Peoples, and Regions
+[A History of East Asia: From the Origins of Civilization to the Twenty-First Century (Cambridge University Press/Charles Holcombe)](https://books.google.com/books?isbn=9781107544895) - Comprehensive single-volume textbook surveying the shared traditions and distinct political trajectories of China, Japan, and Korea.
 
-- [Asia Society – Country & Regional Profiles](https://asiasociety.org/countries-regions) – Overview of contemporary Asian countries, cultures, and geographical subdivisions.
-- [Asia Society Center for Global Education](https://asiasociety.org/education) – Curated pedagogical resources on Asian physical, cultural, and environmental geography.
-- *The Geography of Asia* by Clifton W. Pannell, Ashok K. Dutt, et al. – Canonical academic survey of Asia's physical environments, demographic patterns, and urbanization.
+[East Asia: A Cultural, Social, and Political History (Cengage Learning/Patricia Buckley Ebrey & Anne Walthall)](https://books.google.com/books?isbn=9781133606475) - Widely assigned undergraduate history emphasizing social institutions, religion, and gender alongside dynastic statecraft.
 
-### Big-Picture Asian History
+[ChinaX: China's Past, Present and Future (Harvard University/Peter K. Bol & William C. Kirby)](https://projects.iq.harvard.edu/chinax) - Open university course series covering foundational Chinese history, geography, and intellectual shifts from antiquity to the modern era.
 
-- *A History of Asia* by Rhoads Murphey and Kristin Stapleton (Routledge) – Standard comprehensive textbook covering comparative political, social, and economic developments across monsoon Asia from antiquity to the modern era.
-- *Old World Encounters: Cross-Cultural Contacts and Exchanges in Pre-Modern Times* by Jerry H. Bentley (Oxford University Press) – Foundational text on trans-Eurasian trade, cultural diffusion, and cross-regional interactions.
-- [Khan Academy – Asian Art and Culture overview sections](https://www.khanacademy.org/humanities/art-asia) – Accessible introductory timelines and regional context essays.
+[MIT OpenCourseWare: East Asia in the World (MIT/Peter C. Perdue)](https://ocw.mit.edu/courses/21h-504-east-asia-in-the-world-spring-2003/) - Undergraduate syllabus and reading lists covering diplomatic, commercial, and cultural interactions across pre-modern and modern East Asia.
 
-### Major Religious Traditions of Asia
+### South Asian Civilizations: The Indian Subcontinent
 
-- *Asian Religions: A Cultural Perspective* by Randall L. Nadeau (Wiley-Blackwell) – Accessible comparative introduction to Hinduism, Buddhism, Confucianism, Daoism, and Shinto in cultural and historical context.
-- *Asian Philosophies* by John M. Koller (Routledge) – Clear introductory textbook covering the development, metaphysical claims, and ethics of major Asian religious-philosophical traditions.
-- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) – Peer-reviewed reference entries on Buddhism, Hinduism, Confucianism, Daoism, and Jainism.
+[History of Indian Civilization (UCLA/Vinay Lal)](https://www.youtube.com/playlist?list=PLy3KRgc0HE8B4neta_B8LPM0G9UWy-Cqe) - Complete 26-lecture university course recording surveying Indian society, politics, and culture from the Indus Valley Civilization to the early modern period.
 
-### Language Foundations
+[The Wonder That Was India (Internet Archive/A.L. Basham)](https://archive.org/details/wonderthatwasind0000bash) - Classic foundational study detailing ancient and classical Indian society, political governance, art, and religion.
 
-- *The World's Major Languages* edited by Bernard Comrie (Routledge) – Canonical reference providing linguistic overviews, grammatical structures, and histories of major Asian language families (Sino-Tibetan, Indo-Aryan, Dravidian, Austronesian, Austroasiatic, Japonic, Koreanic, and Turkic).
-- *Language, Writing, and Calligraphy in Asian Traditions* – Columbia University, Asia for Educators ([afe.easia.columbia.edu](https://afe.easia.columbia.edu/)) – Foundational modules on the development of Chinese logographs, Indian Brahmic scripts, and their historical roles as classical regional *lingua francas*.
+[Modern South Asia: History, Culture, Political Economy (Routledge/Sugata Bose & Ayesha Jalal)](https://books.google.com/books?isbn=9781032124186) - Premier narrative survey tracing civilization, state-building, and social diversity in the Indian subcontinent.
 
-## Core Regional Histories
+[A Concise History of Modern India (Cambridge University Press/Barbara D. Metcalf & Thomas R. Metcalf)](https://books.google.com/books?isbn=9781107672185) - Standard history analyzing Mughal regional authority, British colonial consolidation, partition, and the independent republics.
 
-### East Asia (China, Korea, Japan)
+[MIT OpenCourseWare: The Making of Modern South Asia (MIT/Haimanti Roy)](https://ocw.mit.edu/courses/21h-571-the-making-of-modern-south-asia-fall-2006/) - Free university syllabus providing discussion topics, primary source readings, and historical analyses of South Asian civilization.
 
-- *A History of East Asia: From the Origins of Civilization to the Twenty-First Century* by Charles Holcombe (Cambridge University Press) – Standard single-volume undergraduate introduction to China, Japan, and Korea.
-- *East Asia: A Cultural, Social, and Political History* by Patricia Buckley Ebrey and Anne Walthall (Cengage Learning) – Comprehensive textbook emphasizing cultural and social institutions alongside dynastic political history.
-- [Harvard edX – ChinaX](https://www.edx.org/school/harvardx) – Multi-part foundational university course series covering Chinese civilization from early antiquity through the modern era.
+### Southeast Asian Civilizations: Mainland and Island Worlds
 
-### South Asia (India, Pakistan, Bangladesh, Sri Lanka)
+[Southeast Asia in World History (Oxford University Press/Craig A. Lockard)](https://books.google.com/books?isbn=9780195338119) - Compact, accessible survey tracing ecological adaptations, classical kingdoms, maritime trade, and cultural evolution across the region.
 
-- *Modern South Asia: History, Culture, Political Economy* by Sugata Bose and Ayesha Jalal (Routledge) – Canonical undergraduate history examining state formation, society, and culture in the Indian subcontinent.
-- *A Concise History of Modern India* by Barbara D. Metcalf and Thomas R. Metcalf (Cambridge University Press) – Standard textbook tracing Mughal decline, British colonial rule, partition, and the independent South Asian republics.
-- [A.L. Basham – The Wonder That Was India](https://archive.org/details/wonderthatwasind0000bash) – Classic foundational survey of ancient and classical Indian history, society, religion, and culture.
+[Southeast Asia: An Introductory History (Internet Archive/Milton Osborne)](https://archive.org/details/southeastasiaint0000osbo_t3o7) - Accessible overview detailing the evolution of classical kingdoms, colonial impact, and national transformations.
 
-### Southeast Asia
+[A History of Southeast Asia: Critical Crossroads (Wiley-Blackwell/Anthony Reid)](https://books.google.com/books?isbn=9781118513002) - Comprehensive history exploring maritime trade, ecological conditions, religious localization, and cross-cultural adaptability.
 
-- [Milton Osborne – Southeast Asia: An Introductory History](https://archive.org/details/southeastasiaint0000osbo_t3o7) – Standard, highly accessible survey of Southeast Asian historical developments and state systems.
-- *A History of Southeast Asia: Critical Crossroads* by Anthony Reid (Wiley-Blackwell) – Definitive thematic and narrative history emphasizing maritime trade, localization of world religions, and regional integration.
-- [Asia Society – Introduction to Southeast Asia](https://asiasociety.org/education/introduction-southeast-asia) – Curated historical maps, timelines, and primary background readings.
+### Indian Philosophical & Religious Traditions
 
-### Cross-Regional Connectivity & the Silk Roads
+[Classical Indian Philosophy (History of Philosophy Without Any Gaps/Peter Adamson & Jonardon Ganeri)](https://historyofphilosophy.net/series/classical-indian-philosophy) - Open audio and reading series walking through the philosophical developments of the Vedas, Upanishads, Jainism, Buddhism, and classical Darshana systems.
 
-- *The Silk Road: A New History* by Valerie Hansen (Oxford University Press) – Foundational history of the overland Eurasian routes, oasis kingdoms, and cultural-religious transmissions.
-- *The Indian Ocean in World History* by Milo Kearney (Routledge) – Core introductory study of maritime trade, port cities, and trans-oceanic exchanges connecting South Asia, Southeast Asia, and East Asia.
+[Asian Philosophies (Routledge/John M. Koller)](https://books.google.com/books?isbn=9781138629721) - Readable introductory textbook unpacking the metaphysical and ethical frameworks of the Vedas, Upanishads, and orthodox Indian schools.
 
-## Asian Philosophical Traditions
+[Sources of Indian Tradition, Volume 1: From the Beginning to 1800 (Columbia University Press/Ainslie T. Embree, ed.)](https://books.google.com/books?isbn=9780231066518) - Indispensable documentary reader containing translated primary texts spanning Brahmanical, Hindu, and Jain thought.
 
-### Indian Traditions
+[The Bhagavad Gita (Internet Archive/trans. Eknath Easwaran)](https://archive.org/details/bhagavadgita00eash) - Accessible classical translation and commentary on duty, moral action, yoga, and devotion within the Indian intellectual tradition.
 
-- [_Bhagavad Gita_](https://archive.org/details/bhagavadgita00eash) (trans. Eknath Easwaran, Nilgiri Press; or trans. Barbara Stoler Miller, Bantam Classics) – Seminal classical primary text on duty, ethics, action, and devotion in Indian thought.
-- *Sources of Indian Traditions* edited by Ainslie T. Embree and Stephen N. Hay (Columbia University Press) – Canonical documentary sourcebook of primary readings in Hindu, Jain, and classical Indian political thought.
-- [Asian Philosophies by John M. Koller – Indian sections](https://archive.org/details/asianphilosophie0000koll) – Detailed chapters on the Vedas, Upanishads, Vedanta, Samkhya, Yoga, and heterodox schools.
+### Chinese Philosophical & Religious Traditions
 
-### Chinese Traditions
+[China's Political and Intellectual Foundations: From Sage Kings to Confucius (Harvard University/Peter K. Bol & William C. Kirby)](https://pll.harvard.edu/course/chinas-political-and-intellectual-foundations) - Free audit online course detailing early Chinese worldview, archaeology, and the rise of classical philosophical schools.
 
-- *The Art of Chinese Philosophy: Eight Classical Thinkers and the Focus on Putative Concerns* by Paul R. Goldin (Princeton University Press) – Rigorous yet beginner-accessible analysis of early Chinese thinkers (Confucius, Mozi, Mencius, Laozi, Zhuangzi, Xunzi, Han Feizi).
-- *Sources of Chinese Tradition* edited by Wm. Theodore de Bary and Irene Bloom (Columbia University Press) – Standard academic sourcebook of translated primary texts spanning Confucianism, Daoism, Legalism, and Neo-Confucianism.
-- [Stanford Encyclopedia of Philosophy – Confucianism, Daoism, Chinese Legalism](https://plato.stanford.edu/) – Rigorous, peer-reviewed introductions to major classical Chinese concepts and debates.
+[Introduction to Classical Chinese Philosophy (Hackett Publishing/Bryan W. Van Norden)](https://books.google.com/books?isbn=9781603844680) - Clear, student-focused introduction to early Chinese thought from Confucius through the Han synthesis.
 
-### Buddhist Worlds
+[The Art of Chinese Philosophy: Eight Classical Thinkers (Princeton University Press/Paul R. Goldin)](https://books.google.com/books?isbn=9780691200309) - Rigorous, beginner-accessible analysis of core debates among early thinkers including Confucius, Mozi, Zhuangzi, and Han Feizi.
 
-- [What the Buddha Taught by Walpola Rahula](https://archive.org/details/whatthebuddhatau0000rah) – Classic, canonical introductory exposition of core Buddhist doctrine (Four Noble Truths, Eightfold Path, Dependent Origination, Anatta).
-- *An Introduction to Buddhism: Teachings, History and Practices* by Peter Harvey (Cambridge University Press) – Comprehensive academic textbook covering Theravada, Mahayana, and Vajrayana traditions across Asia.
-- [Access to Insight: Readings in Theravada Buddhism](https://www.accesstoinsight.org/) – Open-access repository of translations from the Pali Canon and introductory essays on Buddhist practice.
+[Sources of Chinese Tradition, Volume 1: From Earliest Times to 1600 (Columbia University Press/Wm. Theodore de Bary & Irene Bloom, eds.)](https://books.google.com/books?isbn=9780231109390) - Canonical documentary anthology translating essential primary texts across Confucianism, Daoism, Legalism, and Neo-Confucianism.
 
-## Asian Literatures & Arts
+### Buddhist Traditions Across Asia
 
-### Literary Traditions
+[What the Buddha Taught (Internet Archive/Walpola Rahula)](https://archive.org/details/whatthebuddhatau0000rah) - Canonical, clear exposition of foundational Buddhist doctrine, including the Four Noble Truths, the Eightfold Path, and Non-Self.
 
-- *Masterworks of Asian Literature in Comparative Perspective: A Guide for Teaching* edited by Barbara Stoler Miller (Columbia Project on Asia in the Core Curriculum / Routledge) – Authoritative pedagogical reader covering canonical Indian, Chinese, and Japanese epics, plays, poetry, and narrative prose.
-- *The Norton Anthology of World Literature* (Asian selections; W. W. Norton) – Standard academic anthology containing primary translations and critical commentary on Asian classics (including the *Ramayana*, *Mahabharata*, *Book of Songs*, Tang Poetry, *The Tale of Genji*, and *Journey to the West*).
-- *The Columbia Anthology of Traditional Chinese Literature* edited by Victor H. Mair (Columbia University Press) – Canonical anthology covering verse, prose, drama, and fiction in translation.
-- *The Columbia Anthology of Traditional Korean Poetry* edited by Peter H. Lee (Columbia University Press) – Core collection of classical Korean poetic forms (Hyangga, Sijo, Gasa).
+[An Introduction to Buddhism: Teachings, History and Practices (Cambridge University Press/Peter Harvey)](https://books.google.com/books?isbn=9780521859424) - Academic survey detailing the doctrinal developments and monastic lineages of Theravada, Mahayana, and Vajrayana Buddhism.
 
-### Visual & Performing Arts
+[Buddhism Through Its Scriptures (Harvard Online/Charles Hallisey)](https://pll.harvard.edu/course/buddhism-through-its-scriptures) - Free audit MOOC exploring Buddhist beliefs, textual interpretation, and religious practices across varied regional cultures.
 
-- [Smarthistory – Guide to Asian Art](https://smarthistory.org/asia/) – Peer-reviewed, open-access essays, high-resolution media, and instructional modules on East, South, and Southeast Asian art and architecture.
-- [The Metropolitan Museum of Art – Heilbrunn Timeline of Art History (Asia)](https://www.metmuseum.org/toah/) – Chronological and thematic essays on Asian artistic traditions, material culture, and religious iconography.
-- *Indian Art* by Partha Mitter (Oxford History of Art, Oxford University Press) – Authoritative survey of South Asian sculpture, temple architecture, and miniature painting.
-- *The Arts of China* by Michael Sullivan (University of California Press) – Standard undergraduate introductory textbook on Chinese painting, ceramics, sculpture, and ritual bronzes.
+### Islamic Traditions in South and Southeast Asia
 
-## Modern Asia: Society, Politics, Economy
+[Islam in South Asia: A Short History (Brill/Jamal Malik)](https://books.google.com/books?isbn=9788125046585) - Essential survey analyzing the historical spread of Islam, Sufi networks, Indo-Islamic syncretism, and Muslim statecraft across the subcontinent.
 
-### Colonialism, Nationalism, and Independence
+[Teaching Islam in Southeast Asia (Education About Asia/Nelly van Doorn-Harder)](https://www.asianstudies.org/publications/eaa/archives/teaching-islam-in-southeast-asia/) - Open-access scholarly analysis exploring the peaceful adoption, localized practices, and cultural role of Islam in the Malay-Indonesian world.
 
-- *Modern South Asia: History, Culture, Political Economy* by Sugata Bose and Ayesha Jalal (Routledge) – Analysis of British colonial rule, anti-colonial mass mobilization, the Indian National Congress, Muslim League, and post-colonial nation building.
-- *Modern China: A Very Short Introduction* by Rana Mitter (Oxford University Press) – Concise introduction to China's 19th- and 20th-century history, from the Opium Wars and Republican revolution to the Communist state and market opening.
-- *The Emergence of Modern Southeast Asia: A New History* edited by Norman G. Owen et al. (University of Hawaii Press) – Standard textbook on the transformation of Southeast Asian societies from colonial conquest to sovereign post-war nation-states.
-- [Yale Open Courses – Open Learning Platforms](https://oyc.yale.edu/) – Freely accessible university lecture recordings and reading lists in modern international and regional history.
+[Islam in Asia: Histories, Cultures, Practices (Association for Asian Studies)](https://www.asianstudies.org/publications/eaa/archives/special-sections/teaching-about-islam-in-asia/) - Curated open-access academic articles and pedagogical modules addressing Islamic civilizations across Asia.
 
-### Politics & International Relations
+### Classical and Premodern Asian Literatures
 
-- *International Relations of Asia* edited by David Shambaugh (Rowman & Littlefield) – Premier undergraduate textbook covering major-power dynamics, regional multilateralism (ASEAN, APEC), security challenges, and diplomatic relations across Asia.
-- [MIT OpenCourseWare – International Relations of East Asia](https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/) – Full university syllabus, lecture notes, and study questions covering regional foreign policies, security architecture, and political systems.
-- *The United States and Asia: Regional Dynamics and Twenty-First-Century Relations* by Robert G. Sutter (Rowman & Littlefield) – Comprehensive overview of post-WWII regional alliances, balance of power, and trans-Pacific diplomacy.
+[Masterworks of Asian Literature in Comparative Perspective (Routledge/Barbara Stoler Miller, ed.)](https://books.google.com/books?isbn=9781563242588) - Standard pedagogical anthology guiding independent readers through major Indian, Chinese, and Japanese epics, plays, and lyric poetry.
 
-### Development & Globalization
+[The Columbia Anthology of Traditional Chinese Literature (Columbia University Press/Victor H. Mair, ed.)](https://books.google.com/books?isbn=9780231074292) - Authoritative collection of pre-modern Chinese verse, narrative prose, and theatrical drama translated by leading sinologists.
 
-- *Economics of Development* by Dwight H. Perkins, Steven Radelet, and David L. Lindauer (W. W. Norton) – Standard developmental economics textbook with extensive empirical focus on East Asian industrialization, the developmental state model, and structural poverty reduction.
-- [Asian Development Bank – Asian Development Outlook Series](https://www.adb.org/publications/series/asian-development-outlook) – Annual flagship economic and policy research reports tracking growth, inflation, trade patterns, and structural transformations across developing Asia.
-- [World Bank – East Asia and Pacific Regional Overview](https://www.worldbank.org/en/region/eap/) – Research publications, data sets, and policy briefings on regional economic integration, infrastructure, and human development indicators.
+[The Columbia Anthology of Traditional Korean Poetry (Columbia University Press/Peter H. Lee, ed.)](https://books.google.com/books?isbn=9780231124614) - Comprehensive selection of traditional Korean poetic forms, including Hyangga, Sijo, and Gasa in English translation.
 
-# Code of conduct
+[The Norton Anthology of World Literature: Volumes A–C (W. W. Norton/Martin Puchner et al., eds.)](https://books.google.com/books?isbn=9780393602821) - Comparative anthology containing definitive translations of the Mahabharata, Ramayana, Tang poetry, and The Tale of Genji.
 
-[Hocbigg's code of conduct](https://github.com/hocbigg/code-of-conduct).
+### Visual Culture, Material Culture, and Architecture
+
+[Smarthistory: Guide to Asian Art (Smarthistory)](https://smarthistory.org/asia/) - Structured open-access collection of peer-reviewed essays, image galleries, and videos on Buddhist, Hindu, East Asian, and Islamic art and architecture.
+
+[Visualizing Cultures (MIT/John W. Dower & Shigeru Miyagawa)](https://visualizingcultures.mit.edu/) - Digital learning project using image records and scholarly essays to explore Asian cultural history and encounters with modernity.
+
+[Indian Art (Oxford University Press/Partha Mitter)](https://books.google.com/books?isbn=9780192842213) - Concise, authoritative art history survey analyzing South Asian temple architecture, sculpture, and Mughal painting.
+
+[The Arts of China (University of California Press/Michael Sullivan)](https://books.google.com/books?isbn=9780520294813) - Standard undergraduate introduction to Chinese painting, ritual bronzes, ceramics, and architecture from antiquity to the modern era.
+
+### Imperialism, Anti-Colonialism, and Decolonization
+
+[Modern China: A Very Short Introduction (Oxford University Press/Rana Mitter)](https://books.google.com/books?isbn=9780198753704) - Concise historical analysis of China's encounter with Western and Japanese imperialism, the fall of the Qing, and twentieth-century revolutions.
+
+[The Emergence of Modern Southeast Asia: A New History (University of Hawaii Press/Norman G. Owen, ed.)](https://books.google.com/books?isbn=9780824828905) - Definitive history tracing Southeast Asian societies through Western colonial rule, Japanese occupation, and anti-colonial independence movements.
+
+[MIT Visualizing Cultures: Canton Trade and the Opium War (MIT)](https://visualizingcultures.mit.edu/canton_trade/ct_curriculum.html) - Visual-historical learning unit examining early modern commercial exchanges and the onset of Western imperialism in China.
+
+[Sources of Indian Traditions, Volume 2: Modern India, Pakistan, and Bangladesh (Columbia University Press/Rachel Fell McDermott et al., eds.)](https://books.google.com/books?isbn=9780231138314) - Primary document collection detailing anti-colonial intellectual movements, the Indian National Congress, the Muslim League, and post-colonial state-building.
+
+### Contemporary Asian Politics, Governance, and Political Economy
+
+[International Relations of Asia (Rowman & Littlefield/David Shambaugh, ed.)](https://books.google.com/books?isbn=9781538151600) - Core undergraduate textbook examining regional security architecture, great power relations, and multilateral forums across the Asia-Pacific.
+
+[The Political Economy of East Asia: Wealth and Power (Edward Elgar Publishing/Ming Wan)](https://books.google.com/books?isbn=9781800370609) - Undergraduate text analyzing the East Asian developmental state, trade policy, manufacturing supply chains, and finance.
+
+[Southeast Asia in the New International Era (Routledge/Robert Dayley)](https://books.google.com/books?isbn=9781032219745) - Comprehensive survey of contemporary political regimes, economic modernization, and regional cooperation under ASEAN.
+
+[The United States and Asia: Regional Dynamics and Twenty-First-Century Relations (Rowman & Littlefield/Robert G. Sutter)](https://books.google.com/books?isbn=9781538128381) - Detailed analysis of post-WWII regional alliances, economic interdependence, and trans-Pacific diplomacy.
+
+[MIT OpenCourseWare: International Relations of East Asia (MIT/M. Taylor Fravel)](https://ocw.mit.edu/courses/17-433-international-relations-of-east-asia-spring-2011/) - University syllabus and reading lists examining regional foreign policies, security dilemmas, and diplomatic flashpoints.
