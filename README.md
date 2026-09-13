@@ -26,118 +26,136 @@ Language study runs parallel throughout, aiming for intermediate proficiency in 
 
 ### Geographical and Environmental Foundations
 
-[World Regional Geography: South Asia (Social Sci LibreTexts/Caitlin Finlayson)](https://socialsci.libretexts.org/Bookshelves/Geography_(Human)/World_Regional_Geography_(Finlayson)/08%3A_South_Asia) - Start here for a swift spatial orientation to the Indian subcontinent; focus specifically on the sections covering monsoonal patterns, mountain systems, and river drainage basins.
+This subject explores how physical terrain, river drainage basins, and seasonal monsoon patterns historically structured agrarian production, settlement density, and regional boundaries across Asia.
 
-[World Regional Geography: East and Southeast Asia (Social Sci LibreTexts/Caitlin Finlayson)](https://socialsci.libretexts.org/Bookshelves/Geography_(Human)/World_Regional_Geography_(Finlayson)/09%3A_East_and_Southeast_Asia) - Pair this directly with the South Asia module to understand how seasonal winds, island geography, and alluvial floodplains shaped eastern Asian settlement before tackling historical texts.
+[World Regional Geography: South Asia (Social Sci LibreTexts/Caitlin Finlayson)](https://socialsci.libretexts.org/Bookshelves/Geography_(Human)/World_Regional_Geography_(Finlayson)/08%3A_South_Asia) - Read this open-access chapter alongside the East and Southeast Asia module for a swift, free spatial introduction to the subcontinent's monsoonal patterns, mountain barriers, and river drainage basins.
 
-[A History of Asia (Routledge/Rhoads Murphey & Kristin Stapleton)](https://books.google.com/books?isbn=9780815378600) - Read the opening environmental and agrarian chapters of this foundational text to see how physical geography directly structured civilizational development across monsoon Asia; the remainder serves as a broader historical narrative you can reference as needed.
+[World Regional Geography: East and Southeast Asia (Social Sci LibreTexts/Caitlin Finlayson)](https://socialsci.libretexts.org/Bookshelves/Geography_(Human)/World_Regional_Geography_(Finlayson)/09%3A_East_and_Southeast_Asia) - A companion chapter to the South Asia module, establishing how seasonal weather systems, archipelagic geography, and major river deltas shaped settlement patterns across East and Southeast Asia.
+
+[A History of Asia (Routledge/Rhoads Murphey & Kristin Stapleton)](https://books.google.com/books?isbn=9780815378600) - A comprehensive foundational textbook to read after the LibreTexts chapters, demonstrating how the physical environments of monsoon Asia structured agrarian settlement and early state formation.
 
 ### Macro-Histories & Trans-Eurasian Connectivity
 
-[The Silk Roads (Smarthistory/Dr. Eiren Shea)](https://smarthistory.org/the-silk-roads/) - Browse these short, illustrated digital modules first to build a visual feel for the material culture, oasis cities, and trade goods of Eurasian exchange.
+This subject examines the overland and maritime trade networks that connected Asian societies with one another and Afro-Eurasia through commerce, cultural diffusion, and religious transmission.
 
-[The Silk Road: A New History (Oxford University Press/Valerie Hansen)](https://books.google.com/books?isbn=9780190218423) - The core text to read on overland exchange; Hansen uses documentary finds from oasis settlements to debunk common myths about large caravans and show how local communities actually operated.
+[The Silk Roads (Smarthistory/Dr. Eiren Shea)](https://smarthistory.org/reframing-art-history/the-silk-roads/) - A free, illustrated introductory chapter serving as an accessible visual entry point to the oasis networks, artistic exchanges, and trade routes of Central and East Asia.
 
-[The Indian Ocean in World History (Routledge/Milo Kearney)](https://books.google.com/books?isbn=9780415312783) - Read this alongside Hansen to balance the overland narrative with maritime trade networks linking the Persian Gulf, India, and Southeast Asia.
+[The Silk Road: A New History (Oxford University Press/Valerie Hansen)](https://books.google.com/books?isbn=9780190218423) - The core text on overland Eurasian exchange, which pairs with Shea's visual overview by examining excavated documents to demonstrate how oasis communities functioned.
 
-[Old World Encounters: Cross-Cultural Contacts and Exchanges in Pre-Modern Times (Oxford University Press/Jerry H. Bentley)](https://books.google.com/books?isbn=9780195076400) - Bentley provides the overarching theoretical framework for how commercial routes, missionary religion, and imperial diplomacy drove cross-cultural conversion and assimilation across Eurasia.
+[The Indian Ocean in World History (Routledge/Milo Kearney)](https://books.google.com/books?isbn=9780415312783) - Read this alongside Hansen to balance overland routes with the maritime trading networks that connected the Persian Gulf, India, and Southeast Asia.
+
+[Old World Encounters: Cross-Cultural Contacts and Exchanges in Pre-Modern Times (Oxford University Press/Jerry H. Bentley)](https://books.google.com/books?isbn=9780195076400) - Provides the overarching theoretical framework that synthesizes Hansen and Kearney, examining how cross-cultural conversion, trade diplomacy, and imperial expansion operated across pre-modern Eurasia.
 
 ### East Asian Civilizations: China, Japan, and Korea
 
-[A History of East Asia: From the Origins of Civilization to the Twenty-First Century (Cambridge University Press/Charles Holcombe)](https://books.google.com/books?isbn=9781107544895) - Choose this as your primary survey if you prefer a tightly integrated, single-volume account that gives balanced, comparative weight to China, Japan, and Korea.
+This subject surveys the political institutions, social systems, and cultural developments that defined China, Japan, and Korea from antiquity through the early modern era.
 
-[East Asia: A Cultural, Social, and Political History (Cengage Learning/Patricia Buckley Ebrey & Anne Walthall)](https://books.google.com/books?isbn=9781133606475) - A comprehensive alternative to Holcombe with richer primary-source excerpts and deeper coverage of social customs, material life, and gender history.
+[A History of East Asia: From the Origins of Civilization to the Twenty-First Century (Cambridge University Press/Charles Holcombe)](https://books.google.com/books?isbn=9781107544895) - The primary single-volume survey option, ideal for learners seeking a concise, tightly integrated comparative history of China, Japan, and Korea.
 
-[ChinaX: China's Past, Present and Future (Harvard University/Peter K. Bol & William C. Kirby)](https://projects.iq.harvard.edu/chinax) - Watch these modular lectures to supplement whichever textbook you choose, using Bol and Kirby's visual presentations to cement your grasp of key dynastic transitions and geographic shifts.
+[East Asia: A Cultural, Social, and Political History (Cengage Learning/Patricia Buckley Ebrey & Anne Walthall)](https://books.google.com/books?isbn=9781133606475) - An alternative survey to Holcombe, offering richer coverage of social customs, material life, gender dynamics, and primary-source documents.
+
+[ChinaX: China's Past, Present and Future (Harvard University/Peter K. Bol & William C. Kirby)](https://www.edx.org/chinax-chinas-past-present-future) - A free audit-mode video lecture series that complements either textbook choice by providing visual lectures, historical maps, and discussions of major dynastic transitions.
 
 ### South Asian Civilizations: The Indian Subcontinent
 
-[History of Indian Civilization (UCLA/Vinay Lal)](https://www.youtube.com/playlist?list=PLy3KRgc0HE8B4neta_B8LPM0G9UWy-Cqe) - Use this recorded lecture series as your overarching audio-visual spine, following Lal's thematic discussions from the Indus Valley through the early modern era.
+This subject covers the political, social, and cultural evolution of the Indian subcontinent from the Indus Valley Civilization through the Mughal Empire and the modern era.
 
-[The Wonder That Was India (Internet Archive/A.L. Basham)](https://archive.org/details/wonderthatwasind0000bash) - The classic baseline study for early South Asia; you don't need to read every detail, but chapters on social structure, statecraft, and religion provide essential historical context before the medieval era.
+[History of Indian Civilization (UCLA/Vinay Lal)](https://www.youtube.com/playlist?list=PLy3KRgc0HE8B4neta_B8LPM0G9UWy-Cqe) - A complete university video lecture series serving as the central audiovisual spine across early, medieval, and colonial Indian history.
 
-[Modern South Asia: History, Culture, Political Economy (Routledge/Sugata Bose & Ayesha Jalal)](https://books.google.com/books?isbn=9781032124186) - A compelling narrative choice for the modern era if you want an interpretive, political-economy perspective that treats the subcontinent as an interconnected regional whole including Pakistan and Bangladesh.
+[The Wonder That Was India (Internet Archive/A.L. Basham)](https://archive.org/details/wonderthatwasind0000bash) - A freely accessible classic study to consult alongside Lal's lectures for cultural, administrative, and religious context on pre-Mughal India.
 
-[A Concise History of Modern India (Cambridge University Press/Barbara D. Metcalf & Thomas R. Metcalf)](https://books.google.com/books?isbn=9781107672185) - An alternative to Bose and Jalal that offers a tighter chronological focus on British colonial statecraft, community identity, and the road to independence.
+[Modern South Asia: History, Culture, Political Economy (Routledge/Sugata Bose & Ayesha Jalal)](https://books.google.com/books?isbn=9781032124186) - A primary modern-era survey option that interprets the subcontinent as an interconnected regional whole from the Mughal decline through independence and partition.
+
+[A Concise History of Modern India (Cambridge University Press/Barbara D. Metcalf & Thomas R. Metcalf)](https://books.google.com/books?isbn=9781107672185) - An alternative modern history to Bose and Jalal, focusing more tightly on the institutional architecture of British colonial rule and the development of modern Indian political identities.
 
 ### Southeast Asian Civilizations: Mainland and Island Worlds
 
-[Southeast Asia in World History (Oxford University Press/Craig A. Lockard)](https://books.google.com/books?isbn=9780195338119) - An ideal starting point if you want a brisk, thematic overview that contextualizes Southeast Asian kingdoms within global maritime and cultural flows.
+This subject investigates the distinct state formations, ecological adaptations, and cultural dynamics of mainland river valleys and maritime archipelagic kingdoms across Southeast Asia.
 
-[A History of Southeast Asia: Critical Crossroads (Wiley-Blackwell/Anthony Reid)](https://books.google.com/books?isbn=9781118513002) - Reid's book is the definitive, comprehensive treatment of the region; read it either instead of Lockard for deeper historical immersion, or as your primary reference text when exploring specific island and mainland states.
+[Southeast Asia in World History (Oxford University Press/Craig A. Lockard)](https://books.google.com/books?isbn=9780195338119) - A concise and accessible introductory primer that places mainland and insular Southeast Asian societies within broad global networks of trade and religion.
+
+[A History of Southeast Asia: Critical Crossroads (Wiley-Blackwell/Anthony Reid)](https://books.google.com/books?isbn=9781118513002) - A more detailed, comprehensive alternative to Lockard, providing an exhaustive historical survey of state-building, commerce, and social change across both island and mainland Southeast Asia.
 
 ### Indian Philosophical & Religious Traditions
 
-[Asian Philosophies (Routledge/John M. Koller)](https://books.google.com/books?isbn=9781138629721) - Read the South Asian chapters first to grasp the fundamental vocabulary and conceptual frameworks of the Vedas, Upanishads, and orthodox philosophical schools.
+This subject introduces the foundational texts, metaphysical concepts, and ethical frameworks of early South Asian thought, focusing on the Vedic tradition, the Upanishads, and classical philosophical systems.
 
-[Classical Indian Philosophy (History of Philosophy Without Any Gaps/Peter Adamson & Jonardon Ganeri)](https://historyofphilosophy.net/series/classical-indian-philosophy) - Listen to these concise podcast episodes alongside Koller to hear how rival schools debated epistemology, the nature of the self, and liberation.
+[Asian Philosophies (Routledge/John M. Koller)](https://books.google.com/books?isbn=9781138629721) - Read the South Asian chapters of this textbook first to acquire the foundational vocabulary and core doctrines of the Vedic hymns, Upanishads, and orthodox Hindu schools.
 
-[Sources of Indian Tradition, Volume 1: From the Beginning to 1800 (Columbia University Press/Ainslie T. Embree, ed.)](https://books.google.com/books?isbn=9780231066518) - The primary documentary reader for this section; dip into its translated excerpts to see how canonical ideas were actually formulated in original Sanskrit, Prakrit, and Pali sources.
+[Classical Indian Philosophy (History of Philosophy Without Any Gaps/Peter Adamson & Jonardon Ganeri)](https://historyofphilosophy.net/series/classical-indian-philosophy) - A free, structured podcast series that serves as an engaging audio companion to Koller, breaking down philosophical debates on epistemology, selfhood, and liberation.
 
-[The Bhagavad Gita (Internet Archive/trans. Eknath Easwaran)](https://archive.org/details/bhagavadgita00eash) - The single foundational text to read completely in this section, highlighting the synthesis of moral action, devotion, and metaphysics in classical Indian thought.
+[Sources of Indian Tradition, Volume 1: From the Beginning to 1800 (Columbia University Press/Ainslie T. Embree, ed.)](https://books.google.com/books?isbn=9780231066518) - The essential primary documentary reader to use alongside the introductory surveys, providing translated excerpts from classical Sanskrit, Prakrit, and Pali texts.
+
+[The Bhagavad Gita (Internet Archive/trans. Eknath Easwaran)](https://archive.org/details/bhagavadgita00eash) - The central standalone primary scripture to read in its entirety after mastering the introductory frameworks, synthesizing Hindu paths of devotion, action, and metaphysical knowledge.
 
 ### Chinese Philosophical & Religious Traditions
 
-[Introduction to Classical Chinese Philosophy (Hackett Publishing/Bryan W. Van Norden)](https://books.google.com/books?isbn=9781603844680) - The most accessible entry point for beginners, walking clearly through the core arguments and ethical debates of Confucius, Mozi, Zhuangzi, and Han Feizi.
+This subject examines the intellectual debates of early China, centering on the ethical, social, and political philosophies of Confucianism, Daoism, and Legalism.
 
-[The Art of Chinese Philosophy: Eight Classical Thinkers (Princeton University Press/Paul R. Goldin)](https://books.google.com/books?isbn=9780691200309) - A more philologically detailed alternative to Van Norden; pick this if you want a closer examination of textual nuances and philosophical consistency across early thinkers.
+[Introduction to Classical Chinese Philosophy (Hackett Publishing/Bryan W. Van Norden)](https://books.google.com/books?isbn=9781603844680) - The most accessible introductory textbook for beginners, mapping the core arguments, debates, and ethical distinctions among Kongzi, Mozi, Zhuangzi, Mengzi, and Han Feizi.
 
-[Sources of Chinese Tradition, Volume 1: From Earliest Times to 1600 (Columbia University Press/Wm. Theodore de Bary & Irene Bloom, eds.)](https://books.google.com/books?isbn=9780231109390) - Essential documentary companion to whichever introductory book you choose; use it to read the unabridged primary source passages referenced by Van Norden or Goldin.
+[The Art of Chinese Philosophy: Eight Classical Thinkers (Princeton University Press/Paul R. Goldin)](https://books.google.com/books?isbn=9780691200309) - An alternative introductory text to Van Norden, recommended for learners seeking a closer philological analysis of textual nuances and philosophical consistency.
 
-[China's Political and Intellectual Foundations: From Sage Kings to Confucius (Harvard University/Peter K. Bol & William C. Kirby)](https://pll.harvard.edu/course/chinas-political-and-intellectual-foundations) - An open online course that supplies the archaeological and political context surrounding early Chinese thinkers, grounding abstract debates in dynastic statecraft.
+[Sources of Chinese Tradition, Volume 1: From Earliest Times to 1600 (Columbia University Press/Wm. Theodore de Bary & Irene Bloom, eds.)](https://books.google.com/books?isbn=9780231109390) - The primary source anthology to study sequentially alongside either Van Norden or Goldin, featuring direct translations of classical philosophical treatises.
+
+[China's Political and Intellectual Foundations: From Sage Kings to Confucius (Harvard University/Peter K. Bol & William C. Kirby)](https://pll.harvard.edu/course/chinas-political-and-intellectual-foundations) - An audit-mode online course providing historical and archaeological background that anchors early philosophical debates within the realities of statecraft.
 
 ### Buddhist Traditions Across Asia
 
-[What the Buddha Taught (Internet Archive/Walpola Rahula)](https://archive.org/details/whatthebuddhatau0000rah) - Begin with this brief, authoritative classic to establish a clear doctrinal baseline on the Four Noble Truths, the Eightfold Path, and Non-Self before studying historical variations.
+This subject traces the origins of Buddhist thought in India and its historical development, doctrinal branching, and monastic adaptation across South, Central, East, and Southeast Asia.
 
-[An Introduction to Buddhism: Teachings, History and Practices (Cambridge University Press/Peter Harvey)](https://books.google.com/books?isbn=9780521859424) - The central comprehensive textbook for this subject, tracing how early teachings evolved into Theravada, Mahayana, and Vajrayana traditions across Asia.
+[What the Buddha Taught (Internet Archive/Walpola Rahula)](https://archive.org/details/whatthebuddhatau0000rah) - Start with this concise, freely accessible classic to establish an authoritative doctrinal baseline on the Four Noble Truths, Dependent Origination, and Non-Self.
 
-[Buddhism Through Its Scriptures (Harvard Online/Charles Hallisey)](https://pll.harvard.edu/course/buddhism-through-its-scriptures) - An applied supplement to Harvey, guiding you through the interpretation of canonical scriptures as lived cultural and religious practices.
+[An Introduction to Buddhism: Teachings, History and Practices (Cambridge University Press/Peter Harvey)](https://books.google.com/books?isbn=9780521859424) - The comprehensive core textbook to read after Rahula, detailing the historical expansion and doctrinal evolution of Theravada, Mahayana, and Vajrayana traditions across Asia.
 
-### Islamic Traditions in South and Southeast Asia
+[Buddhism Through Its Scriptures (Harvard Online/Charles Hallisey)](https://pll.harvard.edu/course/buddhism-through-its-scriptures) - An audit-mode interactive MOOC that complements Harvey by teaching how canonical texts are used, interpreted, and embodied in lived practice.
 
-[Islam in South Asia: A Short History (Brill/Jamal Malik)](https://books.google.com/books?isbn=9788125046585) - Work through this survey for a thorough, grounded understanding of Sufi networks, sultanate governance, and Muslim community formation on the Indian subcontinent.
+### Islamic Traditions Across Asia
 
-[Teaching Islam in Southeast Asia (Education About Asia/Nelly van Doorn-Harder)](https://www.asianstudies.org/publications/eaa/archives/teaching-islam-in-southeast-asia/) - A focused introductory reading explaining how Islam took root through peaceful trade and adapted to local customs across the Malay-Indonesian archipelago.
+This subject explores the transmission, vernacularization, and institutional life of Islam across South, Southeast, Central, and East Asia from the seventh century to the modern period.
 
-[Islam in Asia: Histories, Cultures, Practices (Association for Asian Studies)](https://www.asianstudies.org/publications/eaa/archives/special-sections/teaching-about-islam-in-asia/) - Use this collection of pedagogical articles to bridge South and Southeast Asia, exploring comparative themes like vernacular literature, legal traditions, and modern reform.
+[Islam and Asia: A History (Cambridge University Press/Chiara Formichi)](https://books.google.com/books?isbn=9781107513976) - The primary survey textbook for this subject, de-centering Middle East-centric perspectives to show how Islam became organically woven into the political, artistic, and social fabric of South, Southeast, Central, and East Asia.
+
+[Islam in South Asia: A Short History (Brill/Jamal Malik)](https://books.google.com/books?isbn=9788125046585) - A complementary regional study to Formichi, offering deeper focus on the institutional development of sultanates, Sufi orders, and Muslim communal identity on the Indian subcontinent.
 
 ### Classical and Premodern Asian Literatures
 
-[Masterworks of Asian Literature in Comparative Perspective (Routledge/Barbara Stoler Miller, ed.)](https://books.google.com/books?isbn=9781563242588) - Start with this reader's companion to learn how to approach major Asian epics, poetic forms, and theatrical works from an informed literary and cultural angle.
+This subject surveys the major epic poems, dramatic works, and narrative prose of classical Asia, analyzing their aesthetic conventions, narrative structures, and cultural contexts.
 
-[The Norton Anthology of World Literature: Volumes A–C (W. W. Norton/Martin Puchner et al., eds.)](https://books.google.com/books?isbn=9780393602821) - Consult the Asian selections here to read substantial translated excerpts of the canonical works analyzed by Miller, including the Indian epics, Tang poetry, and The Tale of Genji.
+[Masterworks of Asian Literature in Comparative Perspective (Routledge/Barbara Stoler Miller, ed.)](https://books.google.com/books?isbn=9781563242588) - The overarching analytical guide for this subject, offering interpretive essays that contextualize major Indian, Chinese, and Japanese literary classics.
 
-[The Columbia Anthology of Traditional Chinese Literature (Columbia University Press/Victor H. Mair, ed.)](https://books.google.com/books?isbn=9780231074292) - Dive into this comprehensive anthology if your regional focus is East Asia, particularly for genres like early narrative prose, ci lyrics, and classical drama that broader anthologies omit.
+[The Norton Anthology of World Literature: Volumes A–C (W. W. Norton/Martin Puchner et al., eds.)](https://books.google.com/books?isbn=9780393602821) - Provides the translated literary primary texts analyzed in Miller's companion, including Sanskrit epics, classical Chinese lyric poetry, and Japanese narrative prose.
 
-[The Columbia Anthology of Traditional Korean Poetry (Columbia University Press/Peter H. Lee, ed.)](https://books.google.com/books?isbn=9780231124614) - A specialized collection providing English translations of poetic forms like Hyangga and Sijo, useful for broadening your literary exposure beyond Chinese and Japanese verse.
+[The Columbia Anthology of Traditional Chinese Literature (Columbia University Press/Victor H. Mair, ed.)](https://books.google.com/books?isbn=9780231074292) - A complementary regional anthology that builds upon the Norton selections with expanded translations of classical poetry, vernacular fiction, and traditional Chinese drama.
 
 ### Visual Culture, Material Culture, and Architecture
 
-[Smarthistory: Guide to Asian Art (Smarthistory)](https://smarthistory.org/asia/) - Explore this open digital repository first for concise, video-rich analyses of landmark Asian temples, sculptures, and scroll paintings.
+This subject surveys Asian artistic production, monument building, and sacred spaces, examining how religious beliefs, political power, and material trade were visually expressed.
 
-[Visualizing Cultures (MIT/John W. Dower & Shigeru Miyagawa)](https://visualizingcultures.mit.edu/) - A distinctive visual archive to explore alongside broader surveys, focusing on how visual media documented social changes and encounters with modernity in East Asia.
+[Asian Art (Pearson/Dorinda Neave, Lara Blanchard, & Marika Sardar)](https://books.google.com/books?isbn=9780205837632) - The central comprehensive survey textbook, introducing beginners to the painting, sculpture, ritual objects, and architectural monuments of South Asia, Southeast Asia, and East Asia.
 
-[Indian Art (Oxford University Press/Partha Mitter)](https://books.google.com/books?isbn=9780192842213) - The primary monograph to consult for South Asia, neatly tracing Buddhist stupas, Hindu temple sculpture, and Mughal court painting.
+[Indian Art (Oxford University Press/Partha Mitter)](https://books.google.com/books?isbn=9780192842213) - A complementary monograph to Neave et al., providing a focused historical exploration of Buddhist rock-cut architecture, Hindu temple sculpture, and Mughal painting.
 
-[The Arts of China (University of California Press/Michael Sullivan)](https://books.google.com/books?isbn=9780520294813) - The standard introductory reference for East Asian material culture, spanning ritual bronzes, jade carvings, calligraphy, and landscape painting.
+[The Arts of China (University of California Press/Michael Sullivan)](https://books.google.com/books?isbn=9780520294813) - A complementary regional survey to read alongside Neave et al. for deeper immersion into Chinese bronze casting, calligraphy, ceramics, and monumental landscape painting.
 
 ### Imperialism, Anti-Colonialism, and Decolonization
 
-[Modern China: A Very Short Introduction (Oxford University Press/Rana Mitter)](https://books.google.com/books?isbn=9780198753704) - A fast-paced, insightful primer on China's encounter with Western and Japanese imperialism, the fall of dynastic rule, and subsequent revolutionary movements.
+This subject analyzes the impact of European, American, and Japanese imperialism on Asian societies, alongside the intellectual, social, and military movements that fueled decolonization.
 
-[MIT Visualizing Cultures: Canton Trade and the Opium War (MIT)](https://visualizingcultures.mit.edu/opium_wars_01/ow1_essay01.html) - Examine this visual unit while reading Mitter to see how primary visual artifacts illustrated the collision of Qing trade restrictions with British imperial ambition.
+[From the Ruins of Empire: The Revolt Against the West and the Remaking of Asia (Picador/Pankaj Mishra)](https://books.google.com/books?isbn=9781250037718) - The central pan-Asian narrative to read first, tracing how prominent Asian intellectuals and political leaders formulated anti-imperialist critiques and remade regional identities.
 
-[The Emergence of Modern Southeast Asia: A New History (University of Hawaii Press/Norman G. Owen, ed.)](https://books.google.com/books?isbn=9780824828905) - The core regional text for understanding how diverse European colonial regimes transformed Southeast Asian societies and ignited nationalist resistance.
+[Modern China: A Very Short Introduction (Oxford University Press/Rana Mitter)](https://books.google.com/books?isbn=9780198753704) - A concise complementary primer focusing specifically on China's turbulent transition from the Qing collapse and foreign encroachment to revolutionary nationalism.
 
-[Sources of Indian Traditions, Volume 2: Modern India, Pakistan, and Bangladesh (Columbia University Press/Rachel Fell McDermott et al., eds.)](https://books.google.com/books?isbn=9780231138314) - A primary source anthology detailing anti-colonial political thought, the nationalist struggle, and the ideological debates that shaped the post-colonial subcontinent.
+[The Emergence of Modern Southeast Asia: A New History (University of Hawaii Press/Norman G. Owen, ed.)](https://books.google.com/books?isbn=9780824828905) - A comprehensive regional companion to Mishra, detailing how diverse colonial regimes transformed Southeast Asian societies and sparked anti-colonial resistance.
 
-### Contemporary Asian Politics, Governance, and Political Economy
+[Sources of Indian Traditions, Volume 2: Modern India, Pakistan, and Bangladesh (Columbia University Press/Rachel Fell McDermott et al., eds.)](https://books.google.com/books?isbn=9780231138314) - A primary source documentary anthology providing the translated writings and speeches of key anti-colonial figures across modern South Asia.
 
-[International Relations of Asia (Rowman & Littlefield/David Shambaugh, ed.)](https://books.google.com/books?isbn=9781538151600) - The central textbook for this topic, providing broad chapter-by-chapter coverage of regional security architecture, great-power rivalry, and multilateral institutions.
+### Contemporary Asian Politics and Political Economy
 
-[The Political Economy of East Asia: Wealth and Power (Edward Elgar Publishing/Ming Wan)](https://books.google.com/books?isbn=9781800370609) - Read this alongside Shambaugh to understand the economic underpinnings of regional power, focusing on the East Asian developmental state model, manufacturing networks, and trade flows.
+This subject examines contemporary Asian state systems, developmental economic models, and the multilateral institutions shaping modern regional geopolitics.
 
-[Southeast Asia in the New International Era (Routledge/Robert Dayley)](https://books.google.com/books?isbn=9781032219745) - Focuses on Southeast Asian domestic regimes and regional dynamics under ASEAN, providing crucial context that broader Asia-wide textbooks often pass over quickly.
+[International Relations of Asia (Rowman & Littlefield/David Shambaugh, ed.)](https://books.google.com/books?isbn=9781538151600) - The primary core textbook for regional politics, analyzing great-power dynamics, security architectures, and diplomatic multilateralism across East, Southeast, and South Asia.
 
-[The United States and Asia: Regional Dynamics and Twenty-First-Century Relations (Rowman & Littlefield/Robert G. Sutter)](https://books.google.com/books?isbn=9781538128381) - A valuable complementary analysis examining trans-Pacific diplomacy, military alliances, and how Washington's evolving posture shapes Asian security calculations.
+[The Political Economy of East Asia: Wealth and Power (Edward Elgar Publishing/Ming Wan)](https://books.google.com/books?isbn=9781800370609) - Complements Shambaugh by focusing on the economic foundations of Asian power, including developmental state models, global production networks, and regional trade integration.
+
+[Southeast Asia in the New International Era (Routledge/Robert Dayley)](https://books.google.com/books?isbn=9781032219745) - A focused companion text examining the domestic political regimes of Southeast Asian nations and the institutional mechanics of ASEAN.
